@@ -21,4 +21,4 @@ extra:
 
 plugins:
   - search
-
+  - awesome-pages
