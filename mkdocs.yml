@@ -3,6 +3,7 @@ site_description: Repositório do Grupo 9 da disciplina Interação Humano Compu
 repo_url: https://github.com/IHC-2019-2/IHC-GRUPO9
 nav:
     - Home: index.md
+    - Ponto de Controle 1: seminario1.md
     
 theme:
   name: 'material'

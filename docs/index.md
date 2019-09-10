@@ -5,7 +5,7 @@
 |Data|Versão|Descrição|Autor|
 |:---|:---|:---|:---|
 |06/09/2019|1.0|Criação da Home |Marcos Vinícius|
-|06/09/2019|1.0|Edição e adição no Mkdocs |Marcelo Magalhães|
+|09/09/2019|1.0|Edição e adição no Mkdocs |Marcelo Magalhães|
 
 ## Sobre a Escolha do Tema
 
