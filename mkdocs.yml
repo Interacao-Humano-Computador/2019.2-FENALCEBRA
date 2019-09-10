@@ -1,0 +1,23 @@
+site_name: Grupo 9 - Fenacelbra
+site_description: Repositório do Grupo 9 da disciplina Interação Humano Computador
+repo_url: https://github.com/IHC-2019-2/IHC-GRUPO9
+nav:
+    - Home: index.md
+    
+theme:
+  name: 'material'
+  logo: assets/img/logo.png
+  favicon: favicon.ico
+  palette:
+    primary: 'deep orange'
+    accent: 'deep orange'
+    footer: 'deep orange'
+  language: 'pt'
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/IHC-2019-2/IHC-GRUPO9'
+
+plugins:
+  - search
+
