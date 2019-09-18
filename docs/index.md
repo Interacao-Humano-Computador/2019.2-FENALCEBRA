@@ -1,4 +1,4 @@
-# Grupo 9 - Fenacelbra
+# Grupo 8 - Fenacelbra
 
 ![Logo.](./assets/img/logo.png)
 
