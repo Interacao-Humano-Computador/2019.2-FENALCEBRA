@@ -1,6 +1,6 @@
 site_name: Grupo 9 - Fenacelbra
-site_description: Repositório do Grupo 9 da disciplina Interação Humano Computador
-repo_url: https://github.com/IHC-2019-2/IHC-GRUPO9
+site_description: Repositório do Grupo 8 da disciplina Interação Humano Computador
+repo_url: https://github.com/Interacao-Humano-Computador/2019.2-FENALCEBRA
 nav:
     - Home: index.md
     - Ponto de Controle 1: seminario1.md
@@ -17,7 +17,7 @@ theme:
 extra:
   social:
     - type: 'github'
-      link: 'https://github.com/IHC-2019-2/IHC-GRUPO9'
+      link: 'https://github.com/Interacao-Humano-Computador/2019.2-FENALCEBRA'
 
 plugins:
   - search
