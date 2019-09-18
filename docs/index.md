@@ -9,7 +9,7 @@
 
 ## Grupo
 
-O grupo 9 é composto por 6 alunos da disciplina de Interação Humano Computador do 2º Semestre de 2019. Sendo eles:
+O grupo 8 é composto por 6 alunos da disciplina de Interação Humano Computador do 2º Semestre de 2019. Sendo eles:
 
 | Nome | Matrícula | GitHub |
 | ------ | ------ | ------- |
