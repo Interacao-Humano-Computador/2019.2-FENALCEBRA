@@ -5,6 +5,7 @@ nav:
     - Home: index.md
     - Ponto de Controle 1: seminario1.md
     - Ponto de Controle 2: seminario2.md
+    - Ponto de Controle 3: seminario3.md
     
 theme:
   name: 'material'

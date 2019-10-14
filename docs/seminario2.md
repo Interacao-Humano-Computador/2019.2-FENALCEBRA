@@ -1,12 +1,9 @@
+# Guia de estilo sugerido
 
-# Apresentação
-
-|Data|Versão|Descrição|Autor|
-|:---|:---|:---|:---|
-|17/09/2019|1.0|Adicionando novo guia de estilo|Victor Peixoto|
-|21/09/2019|1.0|Removendo o summário|Victor Peixoto|
-
-## Guia de estilo sugerido
+| Data       | Versão | Descrição                       | Autor          |
+| :--------- | :----- | :------------------------------ | :------------- |
+| 17/09/2019 | 1.0    | Adicionando novo guia de estilo | Victor Peixoto |
+| 21/09/2019 | 1.0    | Removendo o sumário             | Victor Peixoto |
 
 ## 1. Introdução
 
@@ -22,7 +19,6 @@ O guia de estilos segue o padrão sugerido por Marcus e Mayhew sendo separado po
 
 Verificar sempre se o guia de estilos que está sendo utilizado está atualizado
 
-
 ### 1.5. Como manter o guia
 
 Sempre atualizar o guia após uma decisão sobre o estilo do site, novas funcionalidades, e etc.
@@ -30,11 +26,12 @@ Sempre atualizar o guia após uma decisão sobre o estilo do site, novas funcion
 ## 2. Resultados de análise
 
 ### 2.1. Descrição do ambiente de trabalho do usuário
+
 O ambiente o qual o usuário está é de informação o mesmo procura saber mais sobre a doençã, sobre a causa do site, e como fazer parte da federação. Devido isto o usuário não pode se deparar com muitas propagandas com pop-ups, empecilhos para fazer um casastro, e uma navegação fluida, sem problemas e sem distrações.
 
 ## 3. Elementos de interface
 
-### 3.1. Disposição espacial e *grid*
+### 3.1. Disposição espacial e _grid_
 
 A disposição espacial do site não deve ser comprometida quando for comprimido nem expandido, da mesma forma que o usuário que acessar o mesmo num dispositivo android tem que ter uma experiência de qualidade, sem qualquer perda de informação ou de acesso.
 
@@ -64,7 +61,7 @@ Animações singelas, pequenas e de forma natural, como quando o usuário passar
 
 ### 4.1. Estilos de interação
 
-Um simples menu superior com animações de dropdown e de sensibilidade do mouse, 
+Um simples menu superior com animações de dropdown e de sensibilidade do mouse,
 
 ### 4.2. Seleção de um estilo
 
@@ -94,6 +91,6 @@ O site deverá ter uma terminologia de fácil compreenção, mas com uma certa d
 
 As telas devem possuir em seu corpo a informação a ser passada, e no topo um menu para navegação no site, ademais, dentro da área de login e cadastro os campos devem assumir o lugar da informação.
 
-### 6.3. Sequências de diálogos (e.g., para *feedback* ou confirmação de uma operação)
+### 6.3. Sequências de diálogos (e.g., para _feedback_ ou confirmação de uma operação)
 
-Deve existir uma confirmação para quando o usuário fazer login e ou cadastro, na forma de uma pequena *model*
+Deve existir uma confirmação para quando o usuário fazer login e ou cadastro, na forma de uma pequena _model_
