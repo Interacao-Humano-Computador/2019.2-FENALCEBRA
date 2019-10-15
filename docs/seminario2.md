@@ -7,6 +7,7 @@
 | 14/10/2019 | 1.0    | Iniciando documento                   | Marcelo Magalhães |
 | 14/10/2019 | 1.0    | Adicionando planejamento da avaliação | Victor Peixoto    |
 | 14/10/2019 | 1.0    | Adicionando apresentação              | Marcelo Magalhães |
+| 14/10/2019 | 1.0    | Adicionando tópico de características da plataforma| Débora Vilela|
 
 ## Perfil de usuário
 
@@ -24,7 +25,7 @@ Para uma avaliação ser bem sucedida a mesma precisa de planejamento, caso cont
 
 ### Objetivos e questões específicas
 
-O principal intuito desta avaliação de IHC é para melhorar o site da [fenacelbra](http://www.fenacelbra.com.br/) tendo em vista que a experiência de usuário do mesmo é extremamente pobre. Além do golfo de execução ser extremamente alto, tendo em vista que a interface se torna extremamente difícil de se usar ao entrar em algum menu, além do mesmo muitas vezes não conseguir cumprir seus objetivos previamente estabelecidos.
+O principal intuito desta avaliação de IHC é para melhorar o site da [Fenacelbra](http://www.fenacelbra.com.br/) tendo em vista que a experiência de usuário do mesmo é extremamente pobre. Além do golfo de execução ser extremamente alto, tendo em vista que a interface se torna extremamente difícil de se usar ao entrar em algum menu, além do mesmo muitas vezes não conseguir cumprir seus objetivos previamente estabelecidos.
 
 ### Escopo da avaliação
 
@@ -37,3 +38,17 @@ A avaliação deve possuir os métodos de um questionário, para coletar os dado
 ### Perfis dos participantes
 
 A avaliação deverá possuir no mínimo 6 participantes, sendo eles, 2 de cada tipo de persona (comentada acima).
+
+
+## Características da plataforma
+
+A plataforma utilizada é uma plataforma Web do tipo [portal](https://vertigo.com.br/plataforma-digital-portal-intranet-mobile/). Isso significa que o site coleta informações de diferentes fontes e as apresenta em uma única interface, concedendo aos usuários as informações mais relevantes de acordo com seu contexto.
+
+ |Capacidade |Suporte |Possível com esforço |Não é possível |
+ |:--------- |:----- | :---------------- | :---------------- |
+ |Armazenamento de documentos e mídias |Atualização de conteúdos|
+ |Cadastro de usuários|
+ |Layout mais intuitivo|| Sim|
+ |||Adaptação a diversos dispositivos|
+ |||Armazenamento em nuvem|
+ |
