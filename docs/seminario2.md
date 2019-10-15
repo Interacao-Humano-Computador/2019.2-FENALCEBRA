@@ -52,42 +52,56 @@ Pode ser usada com diversos objetivos, tais como projetar, avaliar, automatizar,
 
 Usado nas áreas de treinamento, seleção de pessoal, design instrucional, IHC etc.
 
-### Análise de Tarefas Hierárquica:
-
-Uma análise de tarefa hierárquica é desenvolvida do geral para o específico (top-down).
-Foca em uma taxonomia de aprendizagem.
-É representada em níveis de tarefas
-O nível mais alto corresponde à tarefa mais complexa, enquanto os níveis mais baixos correspondem aos requisitos necessários para as tarefas mais complexas.
-O que a pessoa tem que saber (ou saber fazer) para realizar esta tarefa?
-
 ### Análise de Tarefas Procedimental:
 
-Uma análise de tarefa procedimental é desenvolvida linearmente e sequencialmente, passo-a-passo.
-Tem um fluxo direcional.
-Tem um começo e um fim.
-Foca no processo.
-É representada através de fluxogramas
-Quais são os passos físicos e /ou mentais que a pessoa tem que atravessar para completar a tarefa?
+- Uma análise de tarefa procedimental é desenvolvida linearmente e sequencialmente, passo-a-passo.
+- Tem um fluxo direcional.
+- Tem um começo e um fim.
+- Foca no processo.
+- É representada através de fluxogramas
+- Quais são os passos físicos e /ou mentais que a pessoa tem que atravessar para completar a tarefa?
 
-Análise de Tarefas Híbrida:
-Mistura as duas anteriores.
-Tanto os passos que a pessoa tem que atravessar para completar a tarefa, quando o que ela tem que saber (ou saber fazer) para realizar esta tarefa.
+**Um exemplo de análise procedimental para cadastro celíaco de um usuário seria.**
+
+1. Acesse o Site;
+2. Percorra até o menu cadastro celíaco;
+3. Clique no item;
+4. Responda todas as perguntas do cadastro;
+5. Uma vez que respondeu todas as perguntas clique no botão enviar.
+
+**Um exemplo para cadastro voluntário de um usuário seria.**
+
+1. Acesse o Site;
+2. Percorra até o menu cadastro voluntário;
+3. Clique no item;
+4. Responda todas as perguntas do cadastro;
+5. Uma vez que respondeu todas as perguntas clique no botão enviar.
+
+**Realizar downloads de publicações.**
+
+1. Acesse o Site;
+2. Percorra até o menu publicações;
+3. Clique no item downloads;
+4. Visualize todas as publicações;
+5. Clique em cima da capa de uma publicação para abrir o arquivo em .pdf em uma nova página;
+6. Procure pelo botão download;
+7. Clique no botão download.
 
 ### Aspectos analisados das Tarefas:
 
-Processo da tarefa
-Frequência da tarefa
-Importância de treinamento (aprendizado da tarefa)
-Dificuldade da tarefa
-Importância da tarefa
-Duração da tarefa
-Custos da tarefa
-Consequências da tarefa
-Contexto da tarefa
-Estrutura da tarefa
-Segurança / prevenção
-Facilidade de aprendizagem
-Latência (tempo de reação)
+- Processo da tarefa
+- Frequência da tarefa
+- Importância de treinamento (aprendizado da tarefa)
+- Dificuldade da tarefa
+- Importância da tarefa
+- Duração da tarefa
+- Custos da tarefa
+- Consequências da tarefa
+- Contexto da tarefa
+- Estrutura da tarefa
+- Segurança / prevenção
+- Facilidade de aprendizagem
+- Latência (tempo de reação)
 
 ## Planejamento da avaliação
 
