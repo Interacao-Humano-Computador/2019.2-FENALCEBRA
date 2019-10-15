@@ -10,7 +10,6 @@
 | 14/10/2019 | 1.0    | Adicionando tópico de características da plataforma | Débora Vilela     |
 | 14/10/2019 | 1.0    | Adicionando tópico de análise de tarefas            | Marcos Vinícius   |
 
-
 ## Perfil de usuário
 
 ### Personas
@@ -23,27 +22,28 @@
 | :------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------ |
 | ![Logo.](./assets/img/maria.jpg) | <ul><li>**Nome:** Maria Amaral</li><li>**Idade:** 21 anos</li><li>**Profissão:** Estudante</li><li>**Possui Doença Celíaca:** Não</li></ul> |
 
+Maria é uma jovem de 21 anos e estudante de jornalismo. Ela utiliza a internet, consumir conteúdo de diversos assuntos, fazer pesquisas e acessar redes sociais. Ela estava pesquisando sobre a doença celíaca para um trabalho da faculdade e durante essa pesquisa encontrou o site da Fenacelbra. Maria se sentiu frustrada por não conseguir ler todas as informações do site por causa dos seus erros de design e falhas de implementação.
+
 #### Persona 2 - João
 
 | Foto                            | Informações básicas                                                                                                                         |
 | :------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------ |
 | ![Logo.](./assets/img/joao.jpg) | <ul><li>**Nome:** João da Silva</li><li>**Idade:** 55 anos</li><li>**Profissão:** Mecânico</li><li>**Possui Doença Celíaca:** Sim</li></ul> |
 
-#### Persona 3 - Ana
+João é um senhor de 55 anos, mecânico, que foi diagnosticado recentemente com a doença. Ele utiliza o celular para utilizar aplicativos de mensagem e acessar redes sociais. Ele acessou o site da Fenacelbra com o intuito de saber mais sobre a doença e se associar, porém devido aos problemas do site e ao extenso formulário feito de forma confusa e exaustiva, João acabou desistindo.
+
+#### Persona 3 - Luiza
 
 | Foto                             | Informações básicas                                                                                                                       |
 | :------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Logo.](./assets/img/luiza.jpg) | <ul><li>**Nome:**Luiza Lima</li><li>**Idade:** 30 anos</li><li>**Profissão:** Professora</li><li>**Possui Doença Celíaca:** Sim</li></ul> |
 
-Criar 3 personas sendo elas:
-
-- Portadora da doença e já usuária do site
-- Pessoa recém diagnosticada buscando ajuda/informações
-- Pessoa interessada no assunto
+Luiza é tem 30 anos e é professora. Ela utiliza a internet, consumir conteúdo de diversos assuntos, fazer pesquisas e acessar redes sociais. Luiza foi diagnosticada com a doença Celíaca à 5 anos e desde então tenta sempre se manter o mais bem informada possível sobre o assunto. Ela já é associada a Fenacelbra e apesar de achar o conteúdo do site bom e relevante, devido aos problemas de design e a dificuldade de leitura das informações, ela acessa ao site cada vez menos.
 
 ## Análise de tarefas
 
-### Conceito:
+### Conceito
+
 Processo de analisar e articular a tarefa que os usuários querem ou devem desempenhar através do uso do produto.
 Análise de como uma tarefa é realizada, incluindo uma descrição detalhada tanto de atividades físicas como mentais, duração da tarefa, frequência da tarefa, alocação da tarefa, complexidade da tarefa, condições ambientais, vestimenta e equipamento necessários, e qualquer outro fator envolvido ou requisitado por uma ou mais pessoas para realizar uma dada tarefa.
 Uma análise de tarefa decompõe uma tarefa complexa em seus componentes, que são seus conhecimentos procedimentais e declarativos.
@@ -52,7 +52,7 @@ Pode ser usada com diversos objetivos, tais como projetar, avaliar, automatizar,
 
 Usado nas áreas de treinamento, seleção de pessoal, design instrucional, IHC etc.
 
-### Análise de Tarefas Procedimental:
+### Análise de Tarefas Procedimental
 
 - Uma análise de tarefa procedimental é desenvolvida linearmente e sequencialmente, passo-a-passo.
 - Tem um fluxo direcional.
@@ -87,7 +87,7 @@ Usado nas áreas de treinamento, seleção de pessoal, design instrucional, IHC 
 6. Procure pelo botão download;
 7. Clique no botão download.
 
-### Aspectos analisados das Tarefas:
+### Aspectos analisados das Tarefas
 
 - Processo da tarefa
 - Frequência da tarefa
@@ -134,7 +134,7 @@ A plataforma utilizada é uma plataforma Web do tipo [portal](https://vertigo.co
 | Layout mais intuitivo                |                          | Sim                               |
 |                                      |                          | Adaptação a diversos dispositivos |
 |                                      |                          | Armazenamento em nuvem            |
-|  |
+|                                      |
 
 ### Princípios e Diretrizes Gerais do Design
 
