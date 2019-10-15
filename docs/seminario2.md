@@ -2,14 +2,36 @@
 
 <iframe src="https://docs.google.com/presentation/d/1OE_XVDJrUXK5scerLn1sOKlqFtSs5Dwj3rN6Ho9LOqo/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-| Data       | Versão | Descrição                             | Autor             |
-| :--------- | :----- | :------------------------------------ | :---------------- |
-| 14/10/2019 | 1.0    | Iniciando documento                   | Marcelo Magalhães |
-| 14/10/2019 | 1.0    | Adicionando planejamento da avaliação | Victor Peixoto    |
-| 14/10/2019 | 1.0    | Adicionando apresentação              | Marcelo Magalhães |
-| 14/10/2019 | 1.0    | Adicionando tópico de características da plataforma| Débora Vilela|
+| Data       | Versão | Descrição                                           | Autor             |
+| :--------- | :----- | :-------------------------------------------------- | :---------------- |
+| 14/10/2019 | 1.0    | Iniciando documento                                 | Marcelo Magalhães |
+| 14/10/2019 | 1.0    | Adicionando planejamento da avaliação               | Victor Peixoto    |
+| 14/10/2019 | 1.0    | Adicionando apresentação                            | Marcelo Magalhães |
+| 14/10/2019 | 1.0    | Adicionando tópico de características da plataforma | Débora Vilela     |
 
 ## Perfil de usuário
+
+### Personas
+
+“Personas são personagens fictícios de produtos e serviços que representam as necessidades de um grupo maior de usuários. Devem ser criadas com base em dados reais e atuam, nos projetos de design, como representantes dos usuários reais ajudando a equipe a tomar decisões sobre funcionalidades e design”. (Cooper, 1980)
+
+#### Persona 1 - Maria
+
+| Foto                             | Informações básicas                                                                                                                         |
+| :------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![Logo.](./assets/img/maria.jpg) | <ul><li>**Nome:** Maria Amaral</li><li>**Idade:** 21 anos</li><li>**Profissão:** Estudante</li><li>**Possui Doença Celíaca:** Não</li></ul> |
+
+#### Persona 2 - João
+
+| Foto                            | Informações básicas                                                                                                                         |
+| :------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![Logo.](./assets/img/joao.jpg) | <ul><li>**Nome:** João da Silva</li><li>**Idade:** 55 anos</li><li>**Profissão:** Mecânico</li><li>**Possui Doença Celíaca:** Sim</li></ul> |
+
+#### Persona 3 - Ana
+
+| Foto                             | Informações básicas                                                                                                                       |
+| :------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Logo.](./assets/img/luiza.jpg) | <ul><li>**Nome:**Luiza Lima</li><li>**Idade:** 30 anos</li><li>**Profissão:** Professora</li><li>**Possui Doença Celíaca:** Sim</li></ul> |
 
 Criar 3 personas sendo elas:
 
@@ -39,16 +61,15 @@ A avaliação deve possuir os métodos de um questionário, para coletar os dado
 
 A avaliação deverá possuir no mínimo 6 participantes, sendo eles, 2 de cada tipo de persona (comentada acima).
 
-
 ## Características da plataforma
 
 A plataforma utilizada é uma plataforma Web do tipo [portal](https://vertigo.com.br/plataforma-digital-portal-intranet-mobile/). Isso significa que o site coleta informações de diferentes fontes e as apresenta em uma única interface, concedendo aos usuários as informações mais relevantes de acordo com seu contexto.
 
- |Capacidade |Suporte |Possível com esforço |Não é possível |
- |:--------- |:----- | :---------------- | :---------------- |
- |Armazenamento de documentos e mídias |Atualização de conteúdos|
- |Cadastro de usuários|
- |Layout mais intuitivo|| Sim|
- |||Adaptação a diversos dispositivos|
- |||Armazenamento em nuvem|
- |
+| Capacidade                           | Suporte                  | Possível com esforço              | Não é possível |
+| :----------------------------------- | :----------------------- | :-------------------------------- | :------------- |
+| Armazenamento de documentos e mídias | Atualização de conteúdos |
+| Cadastro de usuários                 |
+| Layout mais intuitivo                |                          | Sim                               |
+|                                      |                          | Adaptação a diversos dispositivos |
+|                                      |                          | Armazenamento em nuvem            |
+|                                      |
