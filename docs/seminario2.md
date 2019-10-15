@@ -52,3 +52,21 @@ A plataforma utilizada é uma plataforma Web do tipo [portal](https://vertigo.co
  |||Adaptação a diversos dispositivos|
  |||Armazenamento em nuvem|
  |
+
+## Princípios e Diretrizes Gerais do Design
+
+Trata-se da necessidade de projetarmos um sistema utilizando um modelo conceitual que o usuário possa aprender rapidamente e sem dificuldades. Este modelo conceitual deve auxiliar a interpretar o relacionamento entre as ações e relações apresentadas pelo sistema e o conhecimento no mundo. 
+
+Abaixo estão alguns princípios e diretrizes comumente utilizados:
+
+
+<li>1. Correspondência com a expectativa dos usuários;
+<li>2. Simplicidade nas estruturas das tarefas;
+<li>3. Equilíbrio entre controle e liberdade do usuário;
+<li>4. Consistência e padronização;
+<li>5. Promoção da eficiência do usuário;
+<li>6. Antecipação das necessidades do usuário;
+<li>7. Visibilidade e reconhecimento;
+<li>8. Conteúdo relevante e expressão adequada;
+<li>9. Projeto para erros.
+
