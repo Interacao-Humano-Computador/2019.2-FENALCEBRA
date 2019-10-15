@@ -4,9 +4,7 @@ repo_url: https://github.com/Interacao-Humano-Computador/2019.2-FENALCEBRA
 nav:
     - Home: index.md
     - Ponto de Controle 1: seminario1.md
-    - Ponto de Controle 2: seminario2.md
-    - Ponto de Controle 3: seminario3.md
-    
+    - Ponto de Controle 2: seminario2.md    
 theme:
   name: 'material'
   logo: assets/img/logo.png
