@@ -1,9 +1,12 @@
-# Seminário 3
+# Apresentação
 
-| Data       | Versão | Descrição           | Autor             |
-| :--------- | :----- | :------------------ | :---------------- |
-| 14/10/2019 | 1.0    | Iniciando documento | Marcelo Magalhães |
-| 14/10/2019 | 1.0    | Adicionando planejamento da avaliação | Victor Peixoto |
+<iframe src="https://docs.google.com/presentation/d/1OE_XVDJrUXK5scerLn1sOKlqFtSs5Dwj3rN6Ho9LOqo/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+| Data       | Versão | Descrição                             | Autor             |
+| :--------- | :----- | :------------------------------------ | :---------------- |
+| 14/10/2019 | 1.0    | Iniciando documento                   | Marcelo Magalhães |
+| 14/10/2019 | 1.0    | Adicionando planejamento da avaliação | Victor Peixoto    |
+| 14/10/2019 | 1.0    | Adicionando apresentação              | Marcelo Magalhães |
 
 ## Perfil de usuário
 
@@ -26,7 +29,6 @@ O principal intuito desta avaliação de IHC é para melhorar o site da [fenacel
 ### Escopo da avaliação
 
 A avaliação deve consistir no usuário tentar fazer o uso do site, seguindo a maioria dos fluxos que os designers planejaram, além de buscar o máximo de informações no mesmo, desenvolvendo uma opinião crítica acerca do mesmo, após isso o usuário deverá fazer o cadastro, preenchendo todos os campos. O usuário também deverá realizar o logout e um login para finalizar.
-
 
 ### Métodos da avaliação
 
