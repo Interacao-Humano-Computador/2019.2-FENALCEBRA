@@ -8,6 +8,8 @@
 | 14/10/2019 | 1.0    | Adicionando planejamento da avaliação               | Victor Peixoto    |
 | 14/10/2019 | 1.0    | Adicionando apresentação                            | Marcelo Magalhães |
 | 14/10/2019 | 1.0    | Adicionando tópico de características da plataforma | Débora Vilela     |
+| 14/10/2019 | 1.0    | Adicionando tópico de análise de tarefas            | Marcos Vinícius   |
+
 
 ## Perfil de usuário
 
@@ -40,6 +42,52 @@ Criar 3 personas sendo elas:
 - Pessoa interessada no assunto
 
 ## Análise de tarefas
+
+### Conceito:
+Processo de analisar e articular a tarefa que os usuários querem ou devem desempenhar através do uso do produto.
+Análise de como uma tarefa é realizada, incluindo uma descrição detalhada tanto de atividades físicas como mentais, duração da tarefa, frequência da tarefa, alocação da tarefa, complexidade da tarefa, condições ambientais, vestimenta e equipamento necessários, e qualquer outro fator envolvido ou requisitado por uma ou mais pessoas para realizar uma dada tarefa.
+Uma análise de tarefa decompõe uma tarefa complexa em seus componentes, que são seus conhecimentos procedimentais e declarativos.
+Descrição detalhada daquilo que uma pessoa competente faz ou deve fazer quando executa uma tarefa.
+Pode ser usada com diversos objetivos, tais como projetar, avaliar, automatizar, possuindo então, diversos níveis de abstração.
+
+Usado nas áreas de treinamento, seleção de pessoal, design instrucional, IHC etc.
+
+### Análise de Tarefas Hierárquica:
+
+Uma análise de tarefa hierárquica é desenvolvida do geral para o específico (top-down).
+Foca em uma taxonomia de aprendizagem.
+É representada em níveis de tarefas
+O nível mais alto corresponde à tarefa mais complexa, enquanto os níveis mais baixos correspondem aos requisitos necessários para as tarefas mais complexas.
+O que a pessoa tem que saber (ou saber fazer) para realizar esta tarefa?
+
+### Análise de Tarefas Procedimental:
+
+Uma análise de tarefa procedimental é desenvolvida linearmente e sequencialmente, passo-a-passo.
+Tem um fluxo direcional.
+Tem um começo e um fim.
+Foca no processo.
+É representada através de fluxogramas
+Quais são os passos físicos e /ou mentais que a pessoa tem que atravessar para completar a tarefa?
+
+Análise de Tarefas Híbrida:
+Mistura as duas anteriores.
+Tanto os passos que a pessoa tem que atravessar para completar a tarefa, quando o que ela tem que saber (ou saber fazer) para realizar esta tarefa.
+
+### Aspectos analisados das Tarefas:
+
+Processo da tarefa
+Frequência da tarefa
+Importância de treinamento (aprendizado da tarefa)
+Dificuldade da tarefa
+Importância da tarefa
+Duração da tarefa
+Custos da tarefa
+Consequências da tarefa
+Contexto da tarefa
+Estrutura da tarefa
+Segurança / prevenção
+Facilidade de aprendizagem
+Latência (tempo de reação)
 
 ## Planejamento da avaliação
 
