@@ -10,6 +10,7 @@
 | 14/10/2019 | 1.0    | Adicionando tópico de características da plataforma | Débora Vilela     |
 | 14/10/2019 | 1.0    | Adicionando tópico de análise de tarefas            | Marcos Vinícius   |
 
+
 ## Perfil de usuário
 
 ### Personas
@@ -40,10 +41,10 @@ João é um senhor de 55 anos, mecânico, que foi diagnosticado recentemente com
 
 Luiza é tem 30 anos e é professora. Ela utiliza a internet, consumir conteúdo de diversos assuntos, fazer pesquisas e acessar redes sociais. Luiza foi diagnosticada com a doença Celíaca à 5 anos e desde então tenta sempre se manter o mais bem informada possível sobre o assunto. Ela já é associada a Fenacelbra e apesar de achar o conteúdo do site bom e relevante, devido aos problemas de design e a dificuldade de leitura das informações, ela acessa ao site cada vez menos.
 
+
 ## Análise de tarefas
 
-### Conceito
-
+### Conceito:
 Processo de analisar e articular a tarefa que os usuários querem ou devem desempenhar através do uso do produto.
 Análise de como uma tarefa é realizada, incluindo uma descrição detalhada tanto de atividades físicas como mentais, duração da tarefa, frequência da tarefa, alocação da tarefa, complexidade da tarefa, condições ambientais, vestimenta e equipamento necessários, e qualquer outro fator envolvido ou requisitado por uma ou mais pessoas para realizar uma dada tarefa.
 Uma análise de tarefa decompõe uma tarefa complexa em seus componentes, que são seus conhecimentos procedimentais e declarativos.
@@ -52,7 +53,7 @@ Pode ser usada com diversos objetivos, tais como projetar, avaliar, automatizar,
 
 Usado nas áreas de treinamento, seleção de pessoal, design instrucional, IHC etc.
 
-### Análise de Tarefas Procedimental
+### Análise de Tarefas Procedimental:
 
 - Uma análise de tarefa procedimental é desenvolvida linearmente e sequencialmente, passo-a-passo.
 - Tem um fluxo direcional.
@@ -63,13 +64,19 @@ Usado nas áreas de treinamento, seleção de pessoal, design instrucional, IHC 
 
 **Um exemplo de análise procedimental para cadastro celíaco de um usuário seria.**
 
+![Fluxograma Celíaco.](./assets/img/Fluxograma_celiaco.png)
+
 1. Acesse o Site;
 2. Percorra até o menu cadastro celíaco;
 3. Clique no item;
 4. Responda todas as perguntas do cadastro;
 5. Uma vez que respondeu todas as perguntas clique no botão enviar.
 
+
+
 **Um exemplo para cadastro voluntário de um usuário seria.**
+
+![Fluxograma Voluntário.](./assets/img/Fluxograma_voluntario.png)
 
 1. Acesse o Site;
 2. Percorra até o menu cadastro voluntário;
@@ -79,6 +86,8 @@ Usado nas áreas de treinamento, seleção de pessoal, design instrucional, IHC 
 
 **Realizar downloads de publicações.**
 
+![Fluxograma Celíaco.](./assets/img/Fluxograma_download.png)
+
 1. Acesse o Site;
 2. Percorra até o menu publicações;
 3. Clique no item downloads;
@@ -87,7 +96,7 @@ Usado nas áreas de treinamento, seleção de pessoal, design instrucional, IHC 
 6. Procure pelo botão download;
 7. Clique no botão download.
 
-### Aspectos analisados das Tarefas
+### Aspectos analisados das Tarefas:
 
 - Processo da tarefa
 - Frequência da tarefa
@@ -134,7 +143,7 @@ A plataforma utilizada é uma plataforma Web do tipo [portal](https://vertigo.co
 | Layout mais intuitivo                |                          | Sim                               |
 |                                      |                          | Adaptação a diversos dispositivos |
 |                                      |                          | Armazenamento em nuvem            |
-|                                      |
+|  |
 
 ### Princípios e Diretrizes Gerais do Design
 
