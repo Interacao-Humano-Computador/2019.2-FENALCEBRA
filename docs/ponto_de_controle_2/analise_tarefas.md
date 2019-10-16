@@ -20,7 +20,7 @@ Usado nas áreas de treinamento, seleção de pessoal, design instrucional, IHC 
 
 **Um exemplo de análise procedimental para cadastro celíaco de um usuário seria.**
 
-![Fluxograma Celíaco.](./assets/img/Fluxograma_celiaco.png)
+![Fluxograma Celíaco.](../assets/img/Fluxograma_celiaco.png)
 
 1. Acesse o Site;
 2. Percorra até o menu cadastro celíaco;
@@ -32,7 +32,7 @@ Usado nas áreas de treinamento, seleção de pessoal, design instrucional, IHC 
 
 **Um exemplo para cadastro voluntário de um usuário seria.**
 
-![Fluxograma Voluntário.](./assets/img/Fluxograma_voluntario.png)
+![Fluxograma Voluntário.](../assets/img/Fluxograma_voluntario.png)
 
 1. Acesse o Site;
 2. Percorra até o menu cadastro voluntário;
@@ -42,7 +42,7 @@ Usado nas áreas de treinamento, seleção de pessoal, design instrucional, IHC 
 
 **Realizar downloads de publicações.**
 
-![Fluxograma Celíaco.](./assets/img/Fluxograma_download.png)
+![Fluxograma Celíaco.](../assets/img/Fluxograma_download.png)
 
 1. Acesse o Site;
 2. Percorra até o menu publicações;
