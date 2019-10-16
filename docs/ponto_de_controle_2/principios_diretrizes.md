@@ -4,15 +4,15 @@ Trata-se da necessidade de projetarmos um sistema utilizando um modelo conceitua
 
 Abaixo estão alguns princípios e diretrizes comumente utilizados:
 
-<li>1. Correspondência com a expectativa dos usuários;
-<li>2. Simplicidade nas estruturas das tarefas;
-<li>3. Equilíbrio entre controle e liberdade do usuário;
-<li>4. Consistência e padronização;
-<li>5. Promoção da eficiência do usuário;
-<li>6. Antecipação das necessidades do usuário;
-<li>7. Visibilidade e reconhecimento;
-<li>8. Conteúdo relevante e expressão adequada;
-<li>9. Projeto para erros.
+1. Correspondência com a expectativa dos usuários;
+2. Simplicidade nas estruturas das tarefas;
+3. Equilíbrio entre controle e liberdade do usuário;
+4. Consistência e padronização;
+5. Promoção da eficiência do usuário;
+6. Antecipação das necessidades do usuário;
+7. Visibilidade e reconhecimento;
+8. Conteúdo relevante e expressão adequada;
+9. Projeto para erros.
 
 | Data       | Versão | Descrição                              | Autor           |
 | :--------- | :----- | :------------------------------------- | :-------------- |
