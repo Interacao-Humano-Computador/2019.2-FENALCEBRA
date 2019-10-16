@@ -3,8 +3,20 @@ site_description: Repositório do Grupo 8 da disciplina Interação Humano Compu
 repo_url: https://github.com/Interacao-Humano-Computador/2019.2-FENALCEBRA
 nav:
     - Home: index.md
-    - Ponto de Controle 1: seminario1.md
-    - Ponto de Controle 2: seminario2.md    
+    - Ponto de Controle 1: 
+      - Política do Repositório: 'ponto_de_controle_1/politicas.md'
+      - Guia de Estilo: 'ponto_de_controle_1/guia_estilo.md'
+      - StoryBoard: 'ponto_de_controle_1/storyboard.md'
+      - Apresentação PC1: 'ponto_de_controle_1/apresentacaoPc1.md'
+
+    - Ponto de Controle 2: 
+      - Perfil de Usuário: 'ponto_de_controle_2/perfil_usuario.md'
+      - Análise de Tarefas: 'ponto_de_controle_2/analise_tarefas.md'
+      - Planejamento da Avaliação: 'ponto_de_controle_2/planejamento_avaliacao.md'
+      - Características da Plataforma: 'ponto_de_controle_2/caracteristicas_plataforma.md'
+      - Princípios e Diretrizes do Projeto: 'ponto_de_controle_2/principios_diretrizes.md'
+      - Apresentação PC2: 'ponto_de_controle_2/apresentacaoPc2.md'
+
 theme:
   name: 'material'
   logo: assets/img/logo.png
