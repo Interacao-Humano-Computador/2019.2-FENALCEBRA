@@ -1,6 +1,6 @@
 # Grupo 8 - Fenacelbra
 
-![Logo.](../assets/img/logo.png)
+![Logo.](./assets/img/logo.png)
 
 ## Sobre a Fenacelbra
 
