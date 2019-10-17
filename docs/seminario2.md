@@ -8,6 +8,7 @@
 | 14/10/2019 | 1.0    | Adicionando planejamento da avaliação | Victor Peixoto    |
 | 14/10/2019 | 1.0    | Adicionando apresentação              | Marcelo Magalhães |
 | 14/10/2019 | 1.0    | Adicionando tópico de características da plataforma| Débora Vilela|
+|16/10/2019|1.1|Alterando documento de características da plataforma|Débora Vilela|
 
 ## Perfil de usuário
 
@@ -44,11 +45,17 @@ A avaliação deverá possuir no mínimo 6 participantes, sendo eles, 2 de cada 
 
 A plataforma utilizada é uma plataforma Web do tipo [portal](https://vertigo.com.br/plataforma-digital-portal-intranet-mobile/). Isso significa que o site coleta informações de diferentes fontes e as apresenta em uma única interface, concedendo aos usuários as informações mais relevantes de acordo com seu contexto.
 
+O site atualmente possui capacidade para ser aberto em diferentes browsers, como Chrome, Explorer, Edge e Firefox. Embora possa ser aberto em dispositivos móveis, tais como smartphones e tablets, o site da Fenacelbra não se adapta às dimensões da tela em que está sendo utilizado, ficando apenas em escala e dimensões proporcionais à telas de computadores e notebooks.
+
+O site também não suporta muitos acessos aos mesmo tempo, tendo assim uma demora no carregamento da página e das informações contidas na mesma.
+
  |Capacidade |Suporte |Possível com esforço |Não é possível |
  |:--------- |:----- | :---------------- | :---------------- |
  |Armazenamento de documentos e mídias |Atualização de conteúdos|
- |Cadastro de usuários|
- |Layout mais intuitivo|| Sim|
- |||Adaptação a diversos dispositivos|
+ |Cadastro de usuários||||
+ |Layout mais intuitivo|| Sim||
+ |||Adaptação a diversos dispositivos||
  |||Armazenamento em nuvem|
+ |Contato direto com usuários|||Apenas por e-mail atualmente|
+ |Acesso em diferentes browsers||||
  |
