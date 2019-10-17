@@ -1,5 +1,3 @@
-## Características da plataforma
-
 A plataforma utilizada é uma plataforma Web do tipo [portal](https://vertigo.com.br/plataforma-digital-portal-intranet-mobile/). Isso significa que o site coleta informações de diferentes fontes e as apresenta em uma única interface, concedendo aos usuários as informações mais relevantes de acordo com seu contexto.
 
 O site atualmente possui capacidade para ser aberto em diferentes browsers, como Chrome, Explorer, Edge e Firefox. Embora possa ser aberto em dispositivos móveis, tais como smartphones e tablets, o site da Fenacelbra não se adapta às dimensões da tela em que está sendo utilizado, ficando apenas em escala e dimensões proporcionais à telas de computadores e notebooks.
