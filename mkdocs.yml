@@ -10,6 +10,7 @@ nav:
       - Apresentação PC1: 'ponto_de_controle_1/apresentacaoPc1.md'
 
     - Ponto de Controle 2: 
+      - Questionário: 'ponto_de_controle_2/questionario.md'
       - Perfil de Usuário: 'ponto_de_controle_2/perfil_usuario.md'
       - Análise de Tarefas: 'ponto_de_controle_2/analise_tarefas.md'
       - Planejamento da Avaliação: 'ponto_de_controle_2/planejamento_avaliacao.md'
