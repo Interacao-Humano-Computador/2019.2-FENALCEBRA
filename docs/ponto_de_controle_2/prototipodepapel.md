@@ -2,11 +2,17 @@
 
 ## Página inicial e menu
 
-[![Como o site é atualmente.](../assets/img/prototipo1.png)](../assets/img/prototipo1.png)
+[![Como o site é atualmente.](../assets/img/prototipoUm.png)]()
+
+[![Página de cadastro.](../assets/img/prototipoDois.png)]()
+
+[![Como o site é atualmente.](../assets/img/prototipoTres.png)]()
 
 ## Página de cadastro
 
-[![Página de cadastro.](../assets/img/prototipo2.png)](../assets/img/prototipo2.png)
+[![Como o site é atualmente.](../assets/img/prototipoQuatro.png)]()
+
+[![Como o site é atualmente.](../assets/img/prototipoCinco.png)]()
 
 ## Videos
 
