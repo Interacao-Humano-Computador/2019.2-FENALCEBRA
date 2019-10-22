@@ -10,12 +10,14 @@
 
 ## Videos
 
- <video width="720" height="480" controls>
+ <video width="640" height="480" controls>
   <source src="../assets/videos/prototipo1.mp4" type="video/mp4">
+  <source src="../assets/videos/prototipo1.ogg" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
- <video width="720" height="480" controls>
+ <video width="640" height="480" controls>
   <source src="../assets/videos/prototipo2.mp4" type="video/mp4">
+  <source src="../assets/videos/prototipo2.ogg" type="video/ogg">
 Your browser does not support the video tag.
 </video>
