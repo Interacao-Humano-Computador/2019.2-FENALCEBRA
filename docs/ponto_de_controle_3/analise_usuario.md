@@ -6,6 +6,10 @@ O perfil do usuário corresponde a uma das personas que já havíamos construíd
 
 Homem, 24 anos, Curso Superior, não possui doença celíaca e familiares possuem a doença.
 
+A atividade durou cerca de 15 minutos, foi explicado o objetivo, a listagem das tarefas e enviado o link do site. O meio de comunicação com o usuário foi o whatsapp.
+
+O mesmo utilizou o Google Chrome como navegador e acessou pelo computador considerando que a avaliação da versão mobile não é nosso objetivo.
+
 ### Tarefa 1
 
     Foi pedido para o usuário executar o cadastro como voluntário no site.
