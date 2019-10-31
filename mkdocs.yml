@@ -18,6 +18,10 @@ nav:
       - Princípios e Diretrizes do Projeto: 'ponto_de_controle_2/principios_diretrizes.md'
       - Protótipo de papel: 'ponto_de_controle_2/prototipodepapel.md'
       - Apresentação PC2: 'ponto_de_controle_2/apresentacaoPc2.md'
+    - Ponto de Controle 3:
+      - Protótipo de Alta Fidelidade: 'ponto_de_controle_3/prototipo_de_alta_fidelidade.md'
+      - Avaliação do Protótipo: 'ponto_de_controle_3/avaliacao_prototipo_alta.md'
+      - Apresentação PC3: 'ponto_de_controle_3/apresentacaoPc3.md'
 
 theme:
   name: 'material'

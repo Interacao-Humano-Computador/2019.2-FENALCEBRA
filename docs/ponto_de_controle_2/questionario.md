@@ -1,33 +1,61 @@
 ## Questionário
 
 ![Quest0](../assets/img/quest00.png)
+
 **Questão 01**
+
 ![Quest1](../assets/img/1.png)
+
 **Questão 02**
+
 ![Quest2](../assets/img/2.png)
+
 **Questão 03**
+
 ![Quest3](../assets/img/3.png)
+
 **Questão 04**
+
 ![Quest4](../assets/img/4.png)
+
 **Questão 05**
+
 ![Quest5](../assets/img/5.png)
+
 **Questão 06**
+
 ![Quest6](../assets/img/6.png)
+
 **Questão 07**
+
 ![Quest7](../assets/img/7.png)
+
 **Questão 08**
+
 ![Quest8](../assets/img/8.png)
+
 **Questão 09**
+
 ![Quest9](../assets/img/9.png)
+
 **Questão 10**
+
 ![Quest10](../assets/img/10.png)
+
 **Questão 11**
+
 ![Quest11](../assets/img/11.png)
+
 **Questão 12**
+
 ![Quest12](../assets/img/12.png)
+
 **Questão 13**
+
 ![Quest13](../assets/img/13.jpg)
+
 **Questão 14**
+
 ![Quest14](../assets/img/14.jpg)
 
 
