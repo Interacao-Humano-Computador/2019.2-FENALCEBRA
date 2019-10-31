@@ -10,25 +10,25 @@ Homem, 24 anos, Curso Superior, não possui doença celíaca e familiares possue
 
     Foi pedido para o usuário executar o cadastro como voluntário no site.
 
-<iframe src="https://vimeo.com/user54280574/review/370041050/368a04b6b0" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/370041050" width="640" height="346" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ### Tarefa 2
 
     Foi pedido para o usuário executar o cadastro como celíaco no site.
 
-<iframe src="https://vimeo.com/user54280574/review/370041074/222dbaf21b" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/370041074" width="640" height="346" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ### Tarefa 3
 
     Foi pedido para que o usuário executasse uma pesquisa utilizando a funcionalidade Mapa do site.
 
-<iframe src="https://vimeo.com/user54280574/review/370041017/3c948bb095" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/370041017" width="640" height="346" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ### Tarefa 4 
 
     Foi pedido que o usuário visualizasse alguma notícia no site.
 
-<iframe src="https://vimeo.com/user54280574/review/370040953/9c2cdc984d" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/370040953" width="640" height="346" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ### Conclusões
 
