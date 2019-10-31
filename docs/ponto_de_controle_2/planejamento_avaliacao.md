@@ -24,7 +24,7 @@ O quarto sub-objetivo é a avaliação de **Problemas na interação e na interf
 
 ### Escopo da avaliação
 
-A avaliação deve consistir no usuário tentar fazer o uso do site, seguindo a maioria dos fluxos que os designers planejaram, além de buscar o máximo de informações no mesmo, desenvolvendo uma opinião crítica acerca do mesmo, após isso o usuário deverá fazer o cadastro, preenchendo todos os campos. O usuário também deverá realizar o logout e um login para finalizar.
+A avaliação deve consistir no usuário tentar fazer o uso do site, seguindo a maioria dos fluxos que os designers planejaram, além de buscar o máximo de informações no mesmo, desenvolvendo uma opinião crítica acerca do mesmo. Sendo assim, o usuário deverá fazer o cadastro, preenchendo todos os campos, assim como acessar os menus superiores, buscando uma determinada informação.
 
 ### Métodos da avaliação
 
