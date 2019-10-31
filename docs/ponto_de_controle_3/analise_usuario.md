@@ -40,6 +40,10 @@ Homem, 24 anos, Curso Superior, não possui doença celíaca e familiares possue
 
   4.  A funcionalidade de pesquisa com auxilio do mapa funcionou relativamente bem apesar de não ser muito clara, levar o usuário para páginas que não o interessem e não carregar a lista de produtos a página fica somente carregando e não existe um sinal de quanto tempo falta ou se a ação travou.
 
+  5.  Podemos observar que o usuário já possuia uma boa experiência com a navegação nesse tipo de site. Considerou fácil encontrar o caminho para o cumprimento das tarefas, apesar de achar o design um pouco ruim. Ter acesso as notícias sobre a doença na página inicial em vez de procurar no menu faz mas sentido para o mesmo.
+
+    
+
 
 | Data       | Versão | Descrição                                           | Autor           |
 | :--------- | :----- | :-------------------------------------------------- | :-------------- |
