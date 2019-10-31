@@ -1,6 +1,6 @@
 ## Planejamento da avaliação
 
-Para uma avaliação ser bem sucedida a mesma precisa de planejamento, caso contrário todos os dados serão desnecessários e possuirão valores completamente errôneos.
+A avaliação de ICH é primordial para todo e qualquer sistema que preza pela qualidade e experiência do usuário. Tendo em vista que a mesma faz uma coleta de dados de acordo com possíveis usuários, ajudando a identificar as necessidades e problemas do sistema, assim como dar um _feedback_ para os desenvolvedores do mesmo.
 
 ### Motivo da avaliação
 
@@ -14,7 +14,7 @@ Independentemente do individuo que irá realizar a avaliação, a mesma será pa
 
 Os objetivos da avaliação, ou quais são os dados esperados com a mesma, seguem o modelo proposto por Hix e Hartson, 1993; Rubin, 1994; Mack e Nielsen, 1994; Sharp et al., 2007. Sendo divididos em 4 sub-objetivos. 
 
-O primeiro é a **apropriação de tecnologia**, que requer a ação dos usuários, para conhecer mais a fundo quais são as necessidades deles, qual o contexto o qual o sistema está inserido, quais são os tipos de usuários que o sistema abraange. A apropriação de tecnologia, nos permite compreender os efeitos da introdução deste novo sistema no mercado, para isso é necessário ter uma análise de como os usuários atingiam seus objetivos antes do sistema e como eles irão atingir os mesmos após a publicação do sistema, se os usuários não tiveram problemas que não puderam ser transpassado, se o tempo em que o usuário realiza uma determinada tarefa é maior ou menor com o sistema, dentre outros dados.
+O primeiro é a **apropriação de tecnologia**, que requer a ação dos usuários, para conhecer mais a fundo quais são as necessidades deles, qual o contexto o qual o sistema está inserido, quais são os tipos de usuários que o sistema abrange. A apropriação de tecnologia, nos permite compreender os efeitos da introdução deste novo sistema no mercado, para isso é necessário ter uma análise de como os usuários atingiam seus objetivos antes do sistema e como eles irão atingir os mesmos após a publicação do sistema, se os usuários não tiveram problemas que não puderam ser transpassado, se o tempo em que o usuário realiza uma determinada tarefa é maior ou menor com o sistema, dentre outros dados.
 
 O segundo sub-objetivo é a avaliação de **idéias alternativas de design**, que tem como objetivo comparar diversas alternativas de design de acordo com a necessidade do usuário sendo as mesmas UI e UX (interface do usuário e experiência do usuário). Dentro do UX podemos avaliar o tempo em que o usuário demora para se familiarizar com o sistema (golfo de aprendizado), a prevenção de erros ou o apoio a recuperação dos mesmos, ademais, em relação ao UI, pode ser avaliado o tempo e o custo para a construção da mesma, assim como a infraestrutura necessária. Dentro desta avaliação, podem ser utilizados protótipos em vários níveis de detalhes.
 
@@ -28,7 +28,11 @@ A avaliação deve consistir no usuário tentar fazer o uso do site, seguindo a 
 
 ### Métodos da avaliação
 
-A avaliação deve possuir os métodos de um questionário, para coletar os dados sobre os possíveis usuários, com o intuito de conhecer os mesmos, o método de prototipação em papel também deverá ser utilizado tendo em vista que o mesmo permite que o usuário consiga criar seus próprios fluxos com base nas suas variáveis psicológicas para o meio físico. Outro método é a gravação de um vídeo do usuário se apresentando, informando sua idade, se o mesmo possui a doença, além de comentar sobre cada parte do site(devido o fato de uma pessoa com a doença morar em outro estado a mesma gravará o vídeo).
+Os métodos utilizados na avaliação deverão ser o de **inspeção** e **investigação**.
+
+O método de **inspeção** se consiste em inspecionar prováveis problemas que o usuário poderá eventualmente ter quando interagirem com o sistema. Ao inspecionar uma interface o avaliador deverá assumir uma persona anteriormente projetada, se comportando como a mesma, assim como, apontando problemas que a mesma teria apontado, todavia, este método pode deixar passar diversos problemas, tendo em vista que o avaliador não é devidamente o usuário, podendo não apontar algo que o usuário em si apontaria ou apontar algo que o usuário não apontaria. A escolha este método se deve pelo fato de dser mais prático dos nossos avaliadores assumirem uma persona e não ser necessário um usuário real.
+
+O método de **investigação** se consiste na produção que questionários e realização de entrevista com possíveis usuários. Este método permite investigar novas possibilidades de design, baseado nos problemas atuais dos usuários, se os mesmos não conseguem realizar seus objetivos, se demoram para entender o fluxo do sistema, se demoram para receber as respostas, dentre outras coisas. A escolha deste método se deve pelo fato de ser o método com um alcance rápido e grande, tendo em vista que os colegas da faculdade sempre estão dispostos a realizar questionários.
 
 ### Perfis dos participantes
 
