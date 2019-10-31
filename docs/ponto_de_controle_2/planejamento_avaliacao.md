@@ -2,9 +2,11 @@
 
 Para uma avaliação ser bem sucedida a mesma precisa de planejamento, caso contrário todos os dados serão desnecessários e possuirão valores completamente errôneos.
 
-### Objetivos e questões específicas
+### Motivo da avaliação
 
-O principal intuito desta avaliação de IHC é para melhorar o site da [Fenacelbra](http://www.fenacelbra.com.br/) tendo em vista que a experiência de usuário do mesmo é extremamente pobre. Além do golfo de execução ser extremamente alto, tendo em vista que a interface se torna extremamente difícil de se usar ao entrar em algum menu, além do mesmo muitas vezes não conseguir cumprir seus objetivos previamente estabelecidos.
+O principal motivo para se fazer uma avaliação de interação humano computador é conhecer os critérios de qualidade que o sistema deverá possuir, todavia é possível que mesmo com a avaliação, o sistema não consiga uma excelência na composição do mesmo. Isto advém da possíbilidade dos desenvolvedores por algum motivo codificarem uma informação errada. Ademais a avaliação do produto final possibilita a entrega de um produto com uma garantia de maior qualidade.
+
+No caso do individuo que está fazendo o sistema o a avaliação tem como motivo saber se o sistema está respondendo de acordo com que o desenvolvedor fez, como o designer desenhou, como o engenheiro projetou os mesmos podem ser verificados com os testes de caixa-branca, testes de caixa-preta. Estes testes podem ser realizados durante o próprio processo de desenvolvimento, sendo eles, por exemplo, testes unitários . Todavia, no caso o usuário, a avaliação tem como principio
 
 ### Escopo da avaliação
 
