@@ -8,8 +8,7 @@ Neste artefato serão discutidos os resultados apresentados pelos usuários apó
 
 #### Tarefa a ser realizada
 
-* Realizar cadastro
-* Acessar aba de saiba mais do sítio na web
+* Buscar informações pela aba "Doença celíaca" e no submenu "O que é?", em seguida descer a toda a página em busca de informações
 
 #### Descrição da Análise
 O usuário identificou que o protótipo não possuia uma barra de rolagem, no entanto o mesmo relatou que o site está em boas condições e possui uma excelente navegabilidade, sem impedimentos para o usuário ao acessar a aba de informação do site, assim como fazer o seu cadastro.
