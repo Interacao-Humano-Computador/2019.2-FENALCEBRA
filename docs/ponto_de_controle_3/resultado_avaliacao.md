@@ -12,8 +12,10 @@ Neste artefato serão discutidos os resultados apresentados pelos usuários apó
 * Acessar aba de saiba mais do sítio na web
 
 #### Descrição da Análise
+
 O usuário identificou que o protótipo não possuia uma barra de rolagem, no entanto o mesmo relatou que o site está em boas condições e possui uma excelente navegabilidade, sem impedimentos para o usuário ao acessar a aba de informação do site, assim como fazer o seu cadastro.
 #### Resultados
+
 |Avaliação|Análise|
 |:-------:|:-----:|
 |O usuário Completou a tarefa?|Sim|
