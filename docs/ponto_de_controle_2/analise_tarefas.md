@@ -20,7 +20,7 @@ Usado nas áreas de treinamento, seleção de pessoal, design instrucional, IHC 
 
 Um exemplo de acesso para obter informações sobre o que é a Doença Celíaca.
 
-![Fluxograma de acesso.](../assets/img/fluxo_acesso.png)
+![Fluxograma de acesso.](../assets/img/fluxo_acesso.jpeg)
 
 1. Acesse o Site;
 2. Clicar na opção "Doença Celíaca" no menu;
