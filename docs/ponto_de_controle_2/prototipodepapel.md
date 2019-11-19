@@ -26,6 +26,10 @@ Nos vídeos é possível verificar como deveria ser o funcionamento do site FENA
 
 <iframe src="https://player.vimeo.com/video/367932458" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
+### *Versão refatorada do protótipo de Papel*
+
+<iframe src="https://player.vimeo.com/video/374132341" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 ## Resultados da avaliação do protótipo de baixa fidelidade e propostas de melhorias
 
 
@@ -43,4 +47,5 @@ Nos vídeos é possível verificar como deveria ser o funcionamento do site FENA
 | :--------- | :----- | :-------------------------------------------------- | :-------------- |
 | 14/10/2019 | 1.0    | Criação do documento                                | Débora Vilela   |
 | 30/10/2019 | 1.1    | Acrescentando tópico de resultados da avaliação do protótipo                                | Débora Vilela   |
+| 18/11/2019 | 1.1    | Acrescentando Vídeo                                | Débora Vilela   |
 

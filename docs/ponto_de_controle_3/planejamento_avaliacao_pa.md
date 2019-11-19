@@ -1,4 +1,4 @@
-# Planejamento da avaliação do Protótipo de alta fidelidade
+### Planejamento da avaliação do Protótipo de alta fidelidade
 
 A avaliação de IHC é primordial para todo e qualquer sistema que preza pela qualidade e experiência do usuário. Tendo em vista que a mesma faz uma coleta de dados de acordo com possíveis usuários, ajudando a identificar as necessidades e problemas do sistema, assim como dar um _feedback_ para os desenvolvedores do mesmo.
 
@@ -43,7 +43,7 @@ O objetivo do planejamento é esquematizar toda a avaliação para se trabalhar 
 
 A coleta de dados leva certo tempo e o planejamento deve estar dentro do que se espera para a exibição de um cronograma preciso e eficiente.
 
-### **Termo de Consentimento**
+### Termo de Consentimento
 
 **Universidade de Brasília
 Faculdade UnB Gama**
