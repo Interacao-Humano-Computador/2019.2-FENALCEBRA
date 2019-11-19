@@ -23,6 +23,7 @@ nav:
       - Análise do usuário: 'ponto_de_controle_3/analise_usuario.md'
       - Protótipo de Alta Fidelidade: 'ponto_de_controle_3/prototipo_de_alta_fidelidade.md'
       - Avaliação do Protótipo: 'ponto_de_controle_3/avaliacao_prototipo_alta.md'
+        - Resultados: 'ponto_de_controle_3/resultado_avaliacao.md' 
       - Apresentação PC3: 'ponto_de_controle_3/apresentacaoPc3.md'
 
 theme:
