@@ -4,6 +4,7 @@
 ### Versão 1.0 Protótipo alta Fidelidade
 
 Página Principal
+<br>
 ![Página Principal](../assets/img/01PA.png)
 
 Menu 01
