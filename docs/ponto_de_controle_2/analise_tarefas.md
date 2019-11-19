@@ -18,39 +18,14 @@ Usado nas áreas de treinamento, seleção de pessoal, design instrucional, IHC 
 - É representada através de fluxogramas
 - Quais são os passos físicos e /ou mentais que a pessoa tem que atravessar para completar a tarefa?
 
-**Um exemplo de análise procedimental para cadastro celíaco de um usuário seria.**
+Um exemplo de acesso para obter informações sobre o que é a Doença Celíaca.
 
-![Fluxograma Celíaco.](../assets/img/Fluxograma_celiaco.png)
-
-1. Acesse o Site;
-2. Percorra até o menu cadastro celíaco;
-3. Clique no item;
-4. Responda todas as perguntas do cadastro;
-5. Uma vez que respondeu todas as perguntas clique no botão enviar.
-
-
-
-**Um exemplo para cadastro voluntário de um usuário seria.**
-
-![Fluxograma Voluntário.](../assets/img/Fluxograma_voluntario.png)
+![Fluxograma de acesso.](../assets/img/fluxo_acesso.png)
 
 1. Acesse o Site;
-2. Percorra até o menu cadastro voluntário;
-3. Clique no item;
-4. Responda todas as perguntas do cadastro;
-5. Uma vez que respondeu todas as perguntas clique no botão enviar.
-
-**Realizar downloads de publicações.**
-
-![Fluxograma Celíaco.](../assets/img/Fluxograma_download.png)
-
-1. Acesse o Site;
-2. Percorra até o menu publicações;
-3. Clique no item downloads;
-4. Visualize todas as publicações;
-5. Clique em cima da capa de uma publicação para abrir o arquivo em .pdf em uma nova página;
-6. Procure pelo botão download;
-7. Clique no botão download.
+2. Clicar na opção "Doença Celíaca" no menu;
+3. Clicar na opção "O que é?" do submenu;
+4. Rolar informações na página;
 
 ### Aspectos analisados das Tarefas:
 
@@ -74,3 +49,4 @@ Usado nas áreas de treinamento, seleção de pessoal, design instrucional, IHC 
 | 14/10/2019 | 1.0    | Criação do documento          | Marcos Vinícius   |
 | 14/10/2019 | 1.1    | Adicionando tópico de análise de tarefas            | Marcos Vinícius   |
 | 16/10/2019 | 1.2    | Ajustes na organização da documentação | Nathalia Lorena     |
+| 18/11/2019 | 1.3    | Ajustes e refatoração da tarefa analisada | Nathalia Lorena     |
