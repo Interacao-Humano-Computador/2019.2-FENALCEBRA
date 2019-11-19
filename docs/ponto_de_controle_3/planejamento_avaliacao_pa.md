@@ -50,7 +50,7 @@ Faculdade UnB Gama**
 
 **TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO DO SUJEITO DA PESQUISA
 
-<div style="text-align: justify">Estou plenamente de acordo com minha participação no projeto da Disciplina de Interação Humano Computador sobre o site da FENACELBRA (Federação Nacional de Celíacos do Brasil), desenvolvido pelo grupo 02 composto por Débora Vilela, Gabriel Marques Tiveron, Marcelo Ferreira Magalhães Júnior, Marcos Vinícius Rodrigues da Conceição, Nathalia Lorena Cardoso e Victor Levi Peixoto.</div>
+<div style="text-align: justify">Estou plenamente de acordo com minha participação no projeto da Disciplina de Interação Humano Computador sobre o site da FENACELBRA (Federação Nacional de Celíacos do Brasil), desenvolvido pelo grupo 09 composto por Débora Vilela, Gabriel Marques Tiveron, Marcelo Ferreira Magalhães Júnior, Marcos Vinícius Rodrigues da Conceição, Nathalia Lorena Cardoso e Victor Levi Peixoto.</div>
 <br>
 <div style="text-align: justify">Estou ciente de que minha privacidade será respeitada, ou seja, meu nome ou qualquer outro dado ou elemento que possa, de qualquer forma, me identificar, será mantido em sigilo.</div>
 <br>
