@@ -1,6 +1,6 @@
-## Planejamento da avaliação Protótipo de alta fidelidade
+# Planejamento da avaliação do Protótipo de alta fidelidade
 
-A avaliação de ICH é primordial para todo e qualquer sistema que preza pela qualidade e experiência do usuário. Tendo em vista que a mesma faz uma coleta de dados de acordo com possíveis usuários, ajudando a identificar as necessidades e problemas do sistema, assim como dar um _feedback_ para os desenvolvedores do mesmo.
+A avaliação de IHC é primordial para todo e qualquer sistema que preza pela qualidade e experiência do usuário. Tendo em vista que a mesma faz uma coleta de dados de acordo com possíveis usuários, ajudando a identificar as necessidades e problemas do sistema, assim como dar um _feedback_ para os desenvolvedores do mesmo.
 
 ### Motivo da avaliação
 
@@ -12,19 +12,21 @@ Independentemente do individuo que irá realizar a avaliação, a mesma será pa
 
 ### Objetivo da avaliação
 
-Os objetivos da avaliação, ou quais são os dados esperados com a mesma, seguem o modelo proposto por Hix e Hartson, 1993; Rubin, 1994; Mack e Nielsen, 1994; Sharp et al., 2007. Sendo divididos em 4 sub-objetivos. 
+A avaliação tem como objetivo uma descrição do método do protótipo de alta, o número e o perfil dos avaliadores e participantes, as tarefas a serem executadas pelos participantes e uma lista de problemas de usabilidade corrigidos durante o ciclo de avaliação e reprojetar indicando: local onde ocorreu, fatores de usabilidade prejudicados, descrição do problema, correção realizada no protótipo de papel, indicação se o problema voltou a ocorrer depois da correção.
+
+Os objetivos da avaliação, ou quais são os dados esperados com a mesma, seguem o modelo proposto por Hix e Hartson, 1993; Rubin, 1994; Mack e Nielsen, 1994; Sharp et al., 2007. Sendo divididos em 4 sub-objetivos.
 
 O primeiro é a **apropriação de tecnologia**, que requer a ação dos usuários, para conhecer mais a fundo quais são as necessidades deles, qual o contexto o qual o sistema está inserido, quais são os tipos de usuários que o sistema abrange. A apropriação de tecnologia, nos permite compreender os efeitos da introdução deste novo sistema no mercado, para isso é necessário ter uma análise de como os usuários atingiam seus objetivos antes do sistema e como eles irão atingir os mesmos após a publicação do sistema, se os usuários não tiveram problemas que não puderam ser transpassado, se o tempo em que o usuário realiza uma determinada tarefa é maior ou menor com o sistema, dentre outros dados.
 
 O segundo sub-objetivo é a avaliação de **idéias alternativas de design**, que tem como objetivo comparar diversas alternativas de design de acordo com a necessidade do usuário sendo as mesmas UI e UX (interface do usuário e experiência do usuário). Dentro do UX podemos avaliar o tempo em que o usuário demora para se familiarizar com o sistema (golfo de aprendizado), a prevenção de erros ou o apoio a recuperação dos mesmos, ademais, em relação ao UI, pode ser avaliado o tempo e o custo para a construção da mesma, assim como a infraestrutura necessária. Dentro desta avaliação, podem ser utilizados protótipos em vários níveis de detalhes.
 
-O terçeiro sub-objetivo é avaliar a **conformidade com um padrão** que se torna indispensável caso a solução de IHC precisa ter características específi cas determinadas por padrões estabelecidos. Ela se torna necessária caso um sistema necessite de acessibilidade para portadores de alguma deficiência em específico. Também se pode avaliar o sistema operacional que o sistema será introduzido, sendo eles GNOME® e KDE®, Microsoft Windows® e MacOS®. Se esses padroẽs forem sugeridos, os usuários que estiverem acostumados com esses sistemas vão necessitar de algo parecido com os mesmos, para evitar uma perda de tempo para aprendizagem, podendo levar a bagagem da aprendizagem do próprio sistema operacional.
+O terçeiro sub-objetivo é avaliar a **conformidade com um padrão** que se torna indispensável caso a solução de IHC precisa ter características específicas determinadas por padrões estabelecidos. Ela se torna necessária caso um sistema necessite de acessibilidade para portadores de alguma deficiência em específico. Também se pode avaliar o sistema operacional que o sistema será introduzido, sendo eles GNOME® e KDE®, Microsoft Windows® e MacOS®. Se esses padroẽs forem sugeridos, os usuários que estiverem acostumados com esses sistemas vão necessitar de algo parecido com os mesmos, para evitar uma perda de tempo para aprendizagem, podendo levar a bagagem da aprendizagem do próprio sistema operacional.
 
 O quarto sub-objetivo é a avaliação de **Problemas na interação e na interface**, dentro desta avaliação o avaliador pode ou não contar com o usuário para a coleta de dados. O avaliador procura problemas relacionados a UX e UI, avaliando as gravidades dos mesmos(grau de impacto nocivo), de acordo com a frequência que ocorrem e com o impacto que causam no fluxo do sistema.
 
 ### Escopo da avaliação
 
-A avaliação deve consistir no usuário tentar fazer o uso do site, seguindo a maioria dos fluxos que os designers planejaram, além de buscar o máximo de informações no mesmo, desenvolvendo uma opinião crítica acerca do mesmo. Sendo assim, o usuário deverá fazer o cadastro, preenchendo todos os campos, assim como acessar os menus superiores, buscando uma determinada informação.
+A avaliação deve consistir no usuário tentar fazer o uso do site, seguindo a maioria dos fluxos que os designers planejaram, além de buscar o máximo de informações no mesmo, desenvolvendo uma opinião crítica acerca do mesmo. Sendo assim, o usuário deverá interagir com o site procurando por notícias, acessando menus, utilizando o mapa, procurando receitas, cadastrando informações caso necessário, preenchendo todos os campos, assim como acessar os menus superiores, buscando uma determinada informação.
 
 ### Métodos da avaliação
 
@@ -34,18 +36,12 @@ O método de **inspeção** se consiste em inspecionar prováveis problemas que 
 
 O método de **investigação** se consiste na produção que questionários e realização de entrevista com possíveis usuários. Este método permite investigar novas possibilidades de design, baseado nos problemas atuais dos usuários, se os mesmos não conseguem realizar seus objetivos, se demoram para entender o fluxo do sistema, se demoram para receber as respostas, dentre outras coisas. A escolha deste método se deve pelo fato de ser o método com um alcance rápido e grande, tendo em vista que os colegas da faculdade sempre estão dispostos a realizar questionários.
 
-### Perfis dos participantes
+### O que Avaliar?
 
-A avaliação deverá possuir no mínimo 6 participantes, sendo eles, 2 de cada tipo de persona (comentada acima).
+Planejamento da Avaliação do protótipo de alta fidelidade.
+O objetivo do planejamento é esquematizar toda a avaliação para se trabalhar sobre o conteúdo responsivo da interação do produto final desejado e o feedback do que está sendo proposto.
 
-O que Avaliar?
-Podemos alTERAR ESSE pro nosso caso sim
-
-Planejamento
-Planejamento da Avaliação do protótipo de alta fidelidade
-O objetivo do planejamento é esquematizar toda a avaliação para se trabalhar sobre o conteúdo responsivo da interação do produto final desejado e o feedback do que está sendo proposto. A coleta de dados leva certo tempo e o planejamento deve estar dentro do que se espera para a exibição de um cronograma preciso e eficiente.
-Objetivo da Avaliação
-A avaliação tem como objetivo uma descrição do método do protótipo de alta, o número e o perfil dos avaliadores e participantes, as tarefas a serem executadas pelos participantes e uma lista de problemas de usabilidade corrigidos durante o ciclo de avaliação e reprojetar indicando: local onde ocorreu, fatores de usabilidade prejudicados, descrição do problema, correção realizada no protótipo de papel, indicação se o problema voltou a ocorrer depois da correção.
+A coleta de dados leva certo tempo e o planejamento deve estar dentro do que se espera para a exibição de um cronograma preciso e eficiente.
 
 ### **Termo de Consentimento**
 
@@ -104,16 +100,15 @@ Nesta avaliação será baseada a partir do desenvolvimento de algumas tarefas. 
 - Entrar no item do Menu associa-se;
 - Realizar o cadastro de voluntário e celíaco.
 
-Perfis do Usuário
+### Perfis do Usuário
+
 É importante compreender o perfil do usuário para tornar efetivas as melhorias feitas pelos protótipos. De acordo com os resultados analisados no Perfil do Usuário os usuário do site da FENACELBRA são predominantemente pessoas de entre 20 e 25 anos com curso superior e tem familiaridade com o uso de tecnologia.
-Referências
+
+### Referências
+
 BARBOSA, SILVA. Planejamento da Avaliação de IHC, Capítulo 9. 2010. 26 slides. Material apresentado para a disciplina de Interacão Humano Computador no curso de Engenharia de Software da UnB, FGA.
-
-
-
-
-
 
 | Data       | Versão | Descrição                              | Autor           |
 | :--------- | :----- | :------------------------------------- | :-------------- |
 | 14/11/2019 | 1.0    | Criação do documento                   | Marcos Vinícius  |
+| 14/11/2019 | 1.0    | Criação do documento                   | Marcelo Magalhães  |
