@@ -6,7 +6,7 @@ O LightHouse é uma ferramenta de avaliação automática para analisar a qualid
 ![lighthouse](../assets/img/lighthouse_fenacelbra.png)
 
 
-A avaliação completa pode ser conferida neste [link](../assets/www.fenacelbra.com.br_2019-11-24_23-50-09.report.html)
+A avaliação completa pode ser conferida neste [link](../assets/fenacelbra_lighthouse.html)
 
 
 |Data|Versão|Descrição|Autor|
