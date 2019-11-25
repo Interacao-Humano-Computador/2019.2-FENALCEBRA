@@ -3,24 +3,32 @@ site_description: Repositório do Grupo 8 da disciplina Interação Humano Compu
 repo_url: https://github.com/Interacao-Humano-Computador/2019.2-FENALCEBRA
 nav:
     - Home: index.md
-    - Sumário: 
+    - Planejamento: 
       - Política do Repositório: 'sumario/politicas.md'
       - Avaliação Heurística: 'avaliacao_heuristica.md'
-      - Guia de Estilo: 'sumario/guia_estilo.md'
       - StoryBoard: 'sumario/storyboard.md'
+
+    - Análise de Requisitos:  
+      - Guia de Estilo: 'sumario/guia_estilo.md'
       - Questionário: 'sumario/questionario.md'
       - Perfil de Usuário: 'sumario/perfil_usuario.md'
       - Análise de Tarefas: 'sumario/analise_tarefas.md'
-      - Planejamento da Avaliação: 'sumario/planejamento_avaliacao.md'
       - Características da Plataforma: 'sumario/caracteristicas_plataforma.md'
       - Princípios e Diretrizes do Projeto: 'sumario/principios_diretrizes.md'
+    
+    - Protótipo de Baixa fidelidade:  
+      - Planejamento da Avaliação: 'sumario/planejamento_avaliacao.md'
       - Protótipo de papel: 'sumario/prototipodepapel.md'
+      
+    - Protótipo de Baixa fidelidade:  
       - Planejamento da Avaliação: 'sumario/planejamento_avaliacao_pa.md'
       - Análise do usuário: 'sumario/analise_usuario.md'
       - Protótipo:
         - Protótipo de Alta Fidelidade: 'sumario/prototipo_de_alta_fidelidade.md'
         # - Avaliação do Protótipo: 'sumario/avaliacao_prototipo_alta.md'
-        - Resultados: 'sumario/resultado_avaliacao.md'  
+        - Resultados: 'sumario/resultado_avaliacao.md' 
+      
+    - Avaliação de conformidade:     
       - Avaliação LightHouse: 'sumario/avaliacao_lighthouse.md'
     
     - Apresentações:
