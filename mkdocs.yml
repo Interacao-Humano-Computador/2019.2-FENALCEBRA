@@ -5,6 +5,7 @@ nav:
     - Home: index.md
     - Sumário: 
       - Política do Repositório: 'sumario/politicas.md'
+      - Avaliação Heurística: 'avaliacao_heuristica.md'
       - Guia de Estilo: 'sumario/guia_estilo.md'
       - StoryBoard: 'sumario/storyboard.md'
       - Questionário: 'sumario/questionario.md'
