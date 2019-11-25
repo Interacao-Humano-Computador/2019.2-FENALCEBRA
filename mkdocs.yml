@@ -26,6 +26,8 @@ nav:
         # - Avaliação do Protótipo: 'ponto_de_controle_3/avaliacao_prototipo_alta.md'
         - Resultados: 'ponto_de_controle_3/resultado_avaliacao.md' 
       - Apresentação PC3: 'ponto_de_controle_3/apresentacaoPc3.md'
+    - Apresentação Final: 
+      - Avaliação LightHouse: 'apresentacao_final/avaliacao_lighthouse.md'
 
 theme:
   name: 'material'
