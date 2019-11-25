@@ -3,31 +3,29 @@ site_description: Repositório do Grupo 8 da disciplina Interação Humano Compu
 repo_url: https://github.com/Interacao-Humano-Computador/2019.2-FENALCEBRA
 nav:
     - Home: index.md
-    - Ponto de Controle 1: 
-      - Política do Repositório: 'ponto_de_controle_1/politicas.md'
-      - Guia de Estilo: 'ponto_de_controle_1/guia_estilo.md'
-      - StoryBoard: 'ponto_de_controle_1/storyboard.md'
-      - Apresentação PC1: 'ponto_de_controle_1/apresentacaoPc1.md'
-
-    - Ponto de Controle 2: 
-      - Questionário: 'ponto_de_controle_2/questionario.md'
-      - Perfil de Usuário: 'ponto_de_controle_2/perfil_usuario.md'
-      - Análise de Tarefas: 'ponto_de_controle_2/analise_tarefas.md'
-      - Planejamento da Avaliação: 'ponto_de_controle_2/planejamento_avaliacao.md'
-      - Características da Plataforma: 'ponto_de_controle_2/caracteristicas_plataforma.md'
-      - Princípios e Diretrizes do Projeto: 'ponto_de_controle_2/principios_diretrizes.md'
-      - Protótipo de papel: 'ponto_de_controle_2/prototipodepapel.md'
-      - Apresentação PC2: 'ponto_de_controle_2/apresentacaoPc2.md'
-    - Ponto de Controle 3:
-      - Planejamento da Avaliação: 'ponto_de_controle_3/planejamento_avaliacao_pa.md'
-      - Análise do usuário: 'ponto_de_controle_3/analise_usuario.md'
+    - Sumário: 
+      - Política do Repositório: 'sumario/politicas.md'
+      - Guia de Estilo: 'sumario/guia_estilo.md'
+      - StoryBoard: 'sumario/storyboard.md'
+      - Questionário: 'sumario/questionario.md'
+      - Perfil de Usuário: 'sumario/perfil_usuario.md'
+      - Análise de Tarefas: 'sumario/analise_tarefas.md'
+      - Planejamento da Avaliação: 'sumario/planejamento_avaliacao.md'
+      - Características da Plataforma: 'sumario/caracteristicas_plataforma.md'
+      - Princípios e Diretrizes do Projeto: 'sumario/principios_diretrizes.md'
+      - Protótipo de papel: 'sumario/prototipodepapel.md'
+      - Planejamento da Avaliação: 'sumario/planejamento_avaliacao_pa.md'
+      - Análise do usuário: 'sumario/analise_usuario.md'
       - Protótipo:
-        - Protótipo de Alta Fidelidade: 'ponto_de_controle_3/prototipo_de_alta_fidelidade.md'
+        - Protótipo de Alta Fidelidade: 'sumario/prototipo_de_alta_fidelidade.md'
         # - Avaliação do Protótipo: 'ponto_de_controle_3/avaliacao_prototipo_alta.md'
-        - Resultados: 'ponto_de_controle_3/resultado_avaliacao.md' 
-      - Apresentação PC3: 'ponto_de_controle_3/apresentacaoPc3.md'
-    - Apresentação Final: 
-      - Avaliação LightHouse: 'apresentacao_final/avaliacao_lighthouse.md'
+        - Resultados: 'sumario/resultado_avaliacao.md'  
+      - Avaliação LightHouse: 'sumario/avaliacao_lighthouse.md'
+    
+    - Apresentações:
+      - Apresentação PC1: 'apresentacoes/apresentacaoPc1.md' 
+      - Apresentação PC2: 'apresentacoes/apresentacaoPc2.md'
+      - Apresentação PC3: 'apresentacoes/apresentacaoPc3.md' 
 
 theme:
   name: 'material'
