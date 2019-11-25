@@ -18,7 +18,7 @@ nav:
       - Análise do usuário: 'sumario/analise_usuario.md'
       - Protótipo:
         - Protótipo de Alta Fidelidade: 'sumario/prototipo_de_alta_fidelidade.md'
-        # - Avaliação do Protótipo: 'ponto_de_controle_3/avaliacao_prototipo_alta.md'
+        # - Avaliação do Protótipo: 'sumario/avaliacao_prototipo_alta.md'
         - Resultados: 'sumario/resultado_avaliacao.md'  
       - Avaliação LightHouse: 'sumario/avaliacao_lighthouse.md'
     
