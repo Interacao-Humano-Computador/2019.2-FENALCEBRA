@@ -30,6 +30,7 @@ nav:
       
     - Avaliação de conformidade:     
       - Avaliação LightHouse: 'conformidade/avaliacao_lighthouse.md'
+      - Avaliação W3C: 'conformidade/avaliacao_w3c.md'
     
     - Apresentações:
       - Apresentação PC1: 'apresentacoes/apresentacaoPc1.md' 
