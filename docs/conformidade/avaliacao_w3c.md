@@ -1,6 +1,6 @@
 # Avaliação Padrão W3C
 
-A avaliação do padrão W3C consiste em uma ferramenta automata para detecção de falhas e/ou aperfeiçoamento em sítios na web para se adequarem a um padrão de acessibilidade que abranja um grande número de usuários. 
+A avaliação do padrão W3C consiste em uma ferramenta automática para detecção de falhas e/ou aperfeiçoamento em sítios na web para se adequarem a um padrão de acessibilidade que abranja um grande número de usuários. 
 Essa avaliação é feita por meio de um plugin que pode ser acessado por este [link](https://accessibilityinsights.io/docs/en/web/overview).
 
 
