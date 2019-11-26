@@ -139,6 +139,7 @@ Fonte: BARBOSA, SILVA. Planejamento da Avaliação de IHC, Capítulo 8, p.278.
 ![Projeo para erros.](../assets/img/projetoErros2.png)
 
 Fonte: BARBOSA, SILVA. Planejamento da Avaliação de IHC, Capítulo 8, p.278.
+
 **Observações:** O site não conta com projeto para erros e também não ajuda os usuários a reconhecerem, diagnosticarem e recuperarem  erros, informando-lhe sobre o que ocorreu, as consequências disso e como reverter os resultados indesejados.
 ## Referências
 
