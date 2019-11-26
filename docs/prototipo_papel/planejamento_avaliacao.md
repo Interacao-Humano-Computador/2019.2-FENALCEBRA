@@ -93,14 +93,6 @@ Perfis do Usuário
 <p align="justify">A avaliação deverá possuir no mínimo 6 participantes, sendo eles, 2 de cada tipo de persona.</p>
 
 Após o uso do protótipo de papel em sua versão mais atualizada pelo usuário, foi perguntado a ele algumas questões sobre os seguintes aspectos:
-| ID    | Pergunta| Respostas                              |
-| :--------- | :----- | :------------------------------------- | 
-| 1 | O usuário consegue operar o sistema?    |   Sim               | 
-|2 | Ele atingiu o objetivo proposto?   | Sim |
-|3  | Que parte da interface e da interação o deixa insatisfeito?   | Ausência de um chat de ajuda 24h, por exemplo |
-|4 | Ele entende o que significa e para que serve cada elemento da interface?   | Sim | 
-
-Após o uso do protótipo de papel em sua versão mais atualizada pelo usuário, foi perguntado a ele algumas questões sobre os seguintes aspectos:
 
 | ID    | Pergunta| Respostas                              |
 | :--------- | :----- | :------------------------------------- | 
