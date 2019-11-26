@@ -1,6 +1,6 @@
 # Protótipo de papel
 
-Este documento consiste na elaboração de um protótipo de baixa fidelidade de papel que registra como deveria ser funcionamento do site FENACELBRA. Com base em relatos de uma persona, foi possível afirmar que a tarefa foco no site é realizar o cadastro de usuário, sendo essa persona um celíaco recém diagnosticado a procura de informações, não funciona bem, e deixa o usuário frustrado. Dessa forma, a equipe elaborou um fluxo ideal através do protótipo de papel de como deveria ser o funcionamento do cadastro para os stakeholders.
+<p align="justify">Este documento consiste na elaboração de um protótipo de baixa fidelidade de papel que registra como deveria ser funcionamento do site FENACELBRA. Com base em relatos de uma persona, foi possível afirmar que a tarefa foco no site é realizar o cadastro de usuário, sendo essa persona um celíaco recém diagnosticado a procura de informações, não funciona bem, e deixa o usuário frustrado. Dessa forma, a equipe elaborou um fluxo ideal através do protótipo de papel de como deveria ser o funcionamento do cadastro para os stakeholders.</p>
 
 ## Página inicial e menu
 
@@ -12,7 +12,7 @@ Este documento consiste na elaboração de um protótipo de baixa fidelidade de 
 
 ## Página de cadastro
 
-No site atualmente não é possível realizar um cadastro eficiente, pois as informações do menu de opções se sobrepõem quando somos direcionados à página de cadastro.
+<p align="justify">No site atualmente não é possível realizar um cadastro eficiente, pois as informações do menu de opções se sobrepõem quando somos direcionados à página de cadastro.</p>
 
 [![Como o site deveria ser.](../assets/img/prototipoQuatro.png)]()
 
@@ -20,7 +20,7 @@ No site atualmente não é possível realizar um cadastro eficiente, pois as inf
 
 ## Videos
 
-Nos vídeos é possível verificar como deveria ser o funcionamento do site FENACELBRA, como seria o fluxo ideal para realizar um cadastro na plataforma através de um protótipo de baixa fidelidade.
+<p align="justify">Nos vídeos é possível verificar como deveria ser o funcionamento do site FENACELBRA, como seria o fluxo ideal para realizar um cadastro na plataforma através de um protótipo de baixa fidelidade.</p>
 
 <iframe src="https://player.vimeo.com/video/367932289" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
@@ -41,6 +41,12 @@ Nos vídeos é possível verificar como deveria ser o funcionamento do site FENA
 | Os tópicos do Menu principal não são ordenados de forma coerente |   Proporcionar ordenação mais coesa do Menu  | 
 |Ausência de espaço destinado a sites relacionados ou de parceirias| Acrescentar espaço para divulgar sites relacionados e parceiros|
 
+## Referências
+
+[Site Fenacelbra](http://www.fenacelbra.com.br/fenacelbra/) . Acesso em: 25 de novembro de 2019.
+
+
+## Versionamento
 
 
 | Data       | Versão | Descrição                                           | Autor           |
@@ -48,4 +54,5 @@ Nos vídeos é possível verificar como deveria ser o funcionamento do site FENA
 | 14/10/2019 | 1.0    | Criação do documento                                | Débora Vilela   |
 | 30/10/2019 | 1.1    | Acrescentando tópico de resultados da avaliação do protótipo                                | Débora Vilela   |
 | 18/11/2019 | 1.1    | Acrescentando Vídeo                                | Débora Vilela   |
+| 25/11/2019 | 1.2   | Ajustando indentação e adicionando versionamento e referências | Débora Vilela     |
 

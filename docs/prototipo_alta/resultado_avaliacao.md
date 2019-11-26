@@ -2,7 +2,7 @@
 --------------------------
 ## Introdução
 
-Neste artefato serão discutidos os resultados apresentados pelos usuários após a realização de testes com os protótipos levantados durante o processo de prototipação.
+<p align="justify">Neste artefato serão discutidos os resultados apresentados pelos usuários após a realização de testes com os protótipos levantados durante o processo de prototipação.</p>
 
 ### Avaliação com o Protótipo de Alta Fidelidade
 
@@ -20,7 +20,7 @@ allowfullscreen></iframe>
 
 #### Descrição da Análise
 
-Foi relatado pelo usuário, que fez o uso do site anterior da fenacelbra, uma melhora significativa do design do site, sendo elogiado principalmente as cores e a facilidade de navegação, todavia, o usuário relatou que o faltou uma barra de rolagem para usuários menos experientes com a navegação web, ademias o usuário relatou que seria melhor que o menu principal descesse de acordo com que o usuário navegasse na página.
+<p align="justify">Foi relatado pelo usuário, que fez o uso do site anterior da fenacelbra, uma melhora significativa do design do site, sendo elogiado principalmente as cores e a facilidade de navegação, todavia, o usuário relatou que o faltou uma barra de rolagem para usuários menos experientes com a navegação web, ademias o usuário relatou que seria melhor que o menu principal descesse de acordo com que o usuário navegasse na página.</p>
 
 #### Resultados
 
@@ -33,8 +33,13 @@ Foi relatado pelo usuário, que fez o uso do site anterior da fenacelbra, uma me
 |O usuário indicou melhorias?|Sim|
 |Quais melhorias?|Adição de uma scrollbar|
 
+## Referências
 
+BARBOSA, SILVA. Planejamento da Avaliação de IHC, Capítulo 9. 2010. 26 slides. Material apresentado para a disciplina de Interacão Humano Computador no curso de Engenharia de Software da UnB, FGA.
+
+## Versionamento
 ------------------------------------
 |Data|Versão|Descrição|Autor(es)|
 |:--:|:----:|:-------:|:-------:|
 |18/11/2019|1.0|Criação do Documento|Victor Levi e Gabriel Tiveron|
+| 25/11/2019 | 1.1    | Ajustando indentação e adicionando versionamento e referências | Débora Vilela     |

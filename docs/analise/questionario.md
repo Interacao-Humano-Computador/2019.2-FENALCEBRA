@@ -61,14 +61,17 @@
 
 ### Conclusões do questionário:
 
-- Nosso espaço amostral ainda é relativamente pequeno.
-- Dificuldade de navegação e layout ruim foram a principais queixas dos usuários.
-- Tratamento, informações sobre a doença, e receitas sem glúten foram as principais preferências sobre o que o site deveria ter.
-- Apenas ¼ recomendaria o site para um amigo ou familiar conhecer.
-- Dos que conheciam o site da FENACELBRA ou acessaram por causa do questionário a maior parte achou ruim ou péssimo.
+- <p align="justify">Nosso espaço amostral ainda é relativamente pequeno.</p>
+- <p align="justify">Dificuldade de navegação e layout ruim foram a principais queixas dos usuários.</p>
+- <p align="justify">Tratamento, informações sobre a doença, e receitas sem glúten foram as principais preferências sobre o que o site deveria ter.</p>
+- <p align="justify">Apenas ¼ recomendaria o site para um amigo ou familiar conhecer.</p>
+- <p align="justify">Dos que conheciam o site da FENACELBRA ou acessaram por causa do questionário a maior parte achou ruim ou péssimo.</p>
 
+## Referências
 
+[Google Forms](https://www.google.com/forms/about/)
 
+## Versionamento
 
 | Data       | Versão | Descrição                                           | Autor             |
 | :--------- | :----- | :-------------------------------------------------- | :---------------- |
@@ -76,3 +79,4 @@
 | 14/10/2019 | 1.1    | Adicionando questionários tarefas            | Marcos Vinícius   |
 | 17/10/2019 | 1.2    | Ajustes na organização da documentação | Nathalia Lorena     |
 | 22/10/2019 | 1.3    | Atualização questionários | Marcos Vinícius    |
+| 25/11/2019 | 1.4    | Ajustando indentação e adicionando versionamento e referências | Débora Vilela     |
