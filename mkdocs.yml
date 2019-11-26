@@ -2,54 +2,54 @@ site_name: Grupo 8 - Fenacelbra
 site_description: Repositório do Grupo 8 da disciplina Interação Humano Computador
 repo_url: https://github.com/Interacao-Humano-Computador/2019.2-FENALCEBRA
 nav:
-    - Home: index.md
-    - Planejamento: 
-      - Política do Repositório: 'planejamento/politicas.md'
-      - Avaliação Heurística: planejamento/'avaliacao_heuristica.md'
-      - StoryBoard: 'planejamento/storyboard.md'
+  - Home: index.md
+  - Planejamento:
+      - Política do Repositório: "planejamento/politicas.md"
+      - Avaliação Heurística: "planejamento/avaliacao_heuristica.md"
+      - StoryBoard: "planejamento/storyboard.md"
 
-    - Análise de Requisitos:  
-      - Guia de Estilo: 'analise/guia_estilo.md'
-      - Questionário: 'analise/questionario.md'
-      - Perfil de Usuário: 'analise/perfil_usuario.md'
-      - Análise de Tarefas: 'analise/analise_tarefas.md'
-      - Características da Plataforma: 'analise/caracteristicas_plataforma.md'
-      - Princípios e Diretrizes do Projeto: 'analise/principios_diretrizes.md'
-    
-    - Protótipo de Baixa fidelidade:  
-      - Planejamento da Avaliação: 'prototipo_papel/planejamento_avaliacao.md'
-      - Protótipo de papel: 'prototipo_papel/prototipodepapel.md'
-      
-    - Protótipo de Alta fidelidade:  
-      - Planejamento da Avaliação: 'prototipo_alta/planejamento_avaliacao_pa.md'
-      - Análise do usuário: 'prototipo_alta/analise_usuario.md'
+  - Análise de Requisitos:
+      - Guia de Estilo: "analise/guia_estilo.md"
+      - Questionário: "analise/questionario.md"
+      - Perfil de Usuário: "analise/perfil_usuario.md"
+      - Análise de Tarefas: "analise/analise_tarefas.md"
+      - Características da Plataforma: "analise/caracteristicas_plataforma.md"
+      - Princípios e Diretrizes do Projeto: "analise/principios_diretrizes.md"
+
+  - Protótipo de Baixa fidelidade:
+      - Planejamento da Avaliação: "prototipo_papel/planejamento_avaliacao.md"
+      - Protótipo de papel: "prototipo_papel/prototipodepapel.md"
+
+  - Protótipo de Alta fidelidade:
+      - Planejamento da Avaliação: "prototipo_alta/planejamento_avaliacao_pa.md"
+      - Análise do usuário: "prototipo_alta/analise_usuario.md"
       - Protótipo:
-        - Protótipo de Alta Fidelidade: 'prototipo_alta/prototipo_de_alta_fidelidade.md'
-        # - Avaliação do Protótipo: 'prototipo_alta/avaliacao_prototipo_alta.md'
-        - Resultados: 'prototipo_alta/resultado_avaliacao.md' 
-      
-    - Avaliação de conformidade:     
-      - Avaliação LightHouse: 'conformidade/avaliacao_lighthouse.md'
-      - Avaliação W3C: 'conformidade/avaliacao_w3c.md'
-    
-    - Apresentações:
-      - Apresentação PC1: 'apresentacoes/apresentacaoPc1.md' 
-      - Apresentação PC2: 'apresentacoes/apresentacaoPc2.md'
-      - Apresentação PC3: 'apresentacoes/apresentacaoPc3.md' 
+          - Protótipo de Alta Fidelidade: "prototipo_alta/prototipo_de_alta_fidelidade.md"
+          # - Avaliação do Protótipo: 'prototipo_alta/avaliacao_prototipo_alta.md'
+          - Resultados: "prototipo_alta/resultado_avaliacao.md"
+
+  - Avaliação de conformidade:
+      - Avaliação LightHouse: "conformidade/avaliacao_lighthouse.md"
+      - Avaliação W3C: "conformidade/avaliacao_w3c.md"
+
+  - Apresentações:
+      - Apresentação PC1: "apresentacoes/apresentacaoPc1.md"
+      - Apresentação PC2: "apresentacoes/apresentacaoPc2.md"
+      - Apresentação PC3: "apresentacoes/apresentacaoPc3.md"
 
 theme:
-  name: 'material'
+  name: "material"
   logo: assets/img/logo.png
   favicon: favicon.ico
   palette:
-    primary: 'deep orange'
-    accent: 'deep orange'
-    footer: 'deep orange'
-  language: 'pt'
+    primary: "deep orange"
+    accent: "deep orange"
+    footer: "deep orange"
+  language: "pt"
 extra:
   social:
-    - type: 'github'
-      link: 'https://github.com/Interacao-Humano-Computador/2019.2-FENALCEBRA'
+    - type: "github"
+      link: "https://github.com/Interacao-Humano-Computador/2019.2-FENALCEBRA"
 
 plugins:
   - search
