@@ -28,11 +28,13 @@ A avaliação deve consistir no usuário tentar fazer o uso do site, seguindo a 
 
 ### Métodos da avaliação
 
-Os métodos utilizados na avaliação foram o de **inspeção** e **investigação**.
+Os métodos utilizados na avaliação foram o de **inspeção**, **investigação** e **observação**.
 
 O método de **inspeção** se consiste em inspecionar prováveis problemas que o usuário poderá eventualmente ter quando interagirem com o sistema. Ao inspecionar uma interface o avaliador deverá assumir uma persona anteriormente projetada, se comportando como a mesma, assim como, apontando problemas que a mesma teria apontado, todavia, este método pode deixar passar diversos problemas, tendo em vista que o avaliador não é devidamente o usuário, podendo não apontar algo que o usuário em si apontaria ou apontar algo que o usuário não apontaria. A escolha este método se deve pelo fato de dser mais prático dos nossos avaliadores assumirem uma persona e não ser necessário um usuário real.
 
 O método de **investigação** se consiste na produção que questionários e realização de entrevista com possíveis usuários. Este método permite investigar novas possibilidades de design, baseado nos problemas atuais dos usuários, se os mesmos não conseguem realizar seus objetivos, se demoram para entender o fluxo do sistema, se demoram para receber as respostas, dentre outras coisas. A escolha deste método se deve pelo fato de ser o método com um alcance rápido e grande, tendo em vista que os colegas da faculdade sempre estão dispostos a realizar questionários.
+
+O método de **observação** se consiste num usuário fazer um caminho predefinido pelo avaliador, estando num ambiente confortavel e planejado, após o usuári realizar os testes o mesmo aponta melhorias, pontos positivos e com base nesses dados são construidos novos requisitos
 
 ### **Termo de Consentimento**
 
