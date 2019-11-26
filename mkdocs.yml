@@ -15,6 +15,7 @@ nav:
       - Análise de Tarefas: "analise/analise_tarefas.md"
       - Características da Plataforma: "analise/caracteristicas_plataforma.md"
       - Princípios e Diretrizes do Projeto: "analise/principios_diretrizes.md"
+      - Metas de usabilidade: "analise/metas_usabilidade.md"
 
   - Protótipo de Baixa fidelidade:
       - Planejamento da Avaliação: "prototipo_papel/planejamento_avaliacao.md"
