@@ -20,7 +20,8 @@ allowfullscreen></iframe>
 
 #### Descrição da Análise
 
-O usuário identificou que o protótipo não possuia uma barra de rolagem, no entanto o mesmo relatou que o site está em boas condições e possui uma excelente navegabilidade, sem impedimentos para o usuário ao acessar a aba de informação do site, assim como fazer o seu cadastro.
+Foi relatado pelo usuário, que fez o uso do site anterior da fenacelbra, uma melhora significativa do design do site, sendo elogiado principalmente as cores e a facilidade de navegação, todavia, o usuário relatou que o faltou uma barra de rolagem para usuários menos experientes com a navegação web, ademias o usuário relatou que seria melhor que o menu principal descesse de acordo com que o usuário navegasse na página.
+
 #### Resultados
 
 |Avaliação|Análise|
