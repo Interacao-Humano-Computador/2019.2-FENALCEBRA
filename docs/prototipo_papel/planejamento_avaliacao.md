@@ -16,7 +16,7 @@ Os objetivos da avaliação, ou quais são os dados esperados com a mesma, segue
 
 O primeiro é a **apropriação de tecnologia**, que requer a ação dos usuários, para conhecer mais a fundo quais são as necessidades deles, qual o contexto o qual o sistema está inserido, quais são os tipos de usuários que o sistema abrange. A apropriação de tecnologia, nos permite compreender os efeitos da introdução deste novo sistema no mercado, para isso é necessário ter uma análise de como os usuários atingiam seus objetivos antes do sistema e como eles irão atingir os mesmos após a publicação do sistema, se os usuários não tiveram problemas que não puderam ser transpassado, se o tempo em que o usuário realiza uma determinada tarefa é maior ou menor com o sistema, dentre outros dados.
 
-O segundo sub-objetivo é a avaliação de **idéias alternativas de design**, que tem como objetivo comparar diversas alternativas de design de acordo com a necessidade do usuário sendo as mesmas UI e UX (interface do usuário e experiência do usuário). Dentro do UX podemos avaliar o tempo em que o usuário demora para se familiarizar com o sistema (golfo de aprendizado), a prevenção de erros ou o apoio a recuperação dos mesmos, ademais, em relação ao UI, pode ser avaliado o tempo e o custo para a construção da mesma, assim como a infraestrutura necessária. Dentro desta avaliação, podem ser utilizados protótipos em vários níveis de detalhes.
+O segundo sub-objetivo é a avaliação de **ideias alternativas de design**, que tem como objetivo comparar diversas alternativas de design de acordo com a necessidade do usuário sendo as mesmas UI e UX (interface do usuário e experiência do usuário). Dentro do UX podemos avaliar o tempo em que o usuário demora para se familiarizar com o sistema (golfo de aprendizado), a prevenção de erros ou o apoio a recuperação dos mesmos, ademais, em relação ao UI, pode ser avaliado o tempo e o custo para a construção da mesma, assim como a infraestrutura necessária. Dentro desta avaliação, podem ser utilizados protótipos em vários níveis de detalhes.
 
 O terçeiro sub-objetivo é avaliar a **conformidade com um padrão** que se torna indispensável caso a solução de IHC precisa ter características específi cas determinadas por padrões estabelecidos. Ela se torna necessária caso um sistema necessite de acessibilidade para portadores de alguma deficiência em específico. Também se pode avaliar o sistema operacional que o sistema será introduzido, sendo eles GNOME® e KDE®, Microsoft Windows® e MacOS®. Se esses padroẽs forem sugeridos, os usuários que estiverem acostumados com esses sistemas vão necessitar de algo parecido com os mesmos, para evitar uma perda de tempo para aprendizagem, podendo levar a bagagem da aprendizagem do próprio sistema operacional.
 
@@ -24,15 +24,15 @@ O quarto sub-objetivo é a avaliação de **Problemas na interação e na interf
 
 ### Escopo da avaliação
 
-A avaliação deve consistir no usuário tentar fazer o uso do site, seguindo a maioria dos fluxos que os designers planejaram, além de buscar o máximo de informações no mesmo, desenvolvendo uma opinião crítica acerca do mesmo. Sendo assim, o usuário deverá fazer o cadastro, preenchendo todos os campos, assim como acessar os menus superiores, buscando uma determinada informação.
+A avaliação deve consistir no usuário tentar fazer o uso do site, seguindo a maioria dos fluxos que os designers planejaram, além de buscar o máximo de informações no mesmo, desenvolvendo uma opinião crítica acerca do mesmo. No entanto, foi escolhida uma tarefa foco para o usuário realizar, ele deverá acessar o menu, e clicar em "Doença Celíaca", em seguida, no item "O que é?", esse item dispõe de informações essenciais e concisas para os usuários que estão realizando seu primeiro acesso no site.
 
 ### Métodos da avaliação
 
 Os métodos utilizados na avaliação foram o de **inspeção** e **investigação**.
 
-O método de **inspeção** se consiste em inspecionar prováveis problemas que o usuário poderá eventualmente ter quando interagirem com o sistema. Ao inspecionar uma interface o avaliador deverá assumir uma persona anteriormente projetada, se comportando como a mesma, assim como, apontando problemas que a mesma teria apontado, todavia, este método pode deixar passar diversos problemas, tendo em vista que o avaliador não é devidamente o usuário, podendo não apontar algo que o usuário em si apontaria ou apontar algo que o usuário não apontaria. A escolha este método se deve pelo fato de dser mais prático dos nossos avaliadores assumirem uma persona e não ser necessário um usuário real.
+O método de **inspeção** se consiste em inspecionar prováveis problemas que o usuário poderá eventualmente ter quando interagir com o sistema. Ao inspecionar uma interface o avaliador deverá assumir uma persona anteriormente projetada, se comportando como a mesma, assim como, apontando problemas que a mesma teria apontado, todavia, este método pode deixar passar diversos problemas, tendo em vista que o avaliador não é devidamente o usuário, podendo não apontar algo que o usuário em si apontaria ou apontar algo que o usuário não apontaria. A escolha desse método se deve pelo fato de ser mais prático dos nossos avaliadores assumirem uma persona e não ser necessário um usuário real.
 
-O método de **investigação** se consiste na produção que questionários e realização de entrevista com possíveis usuários. Este método permite investigar novas possibilidades de design, baseado nos problemas atuais dos usuários, se os mesmos não conseguem realizar seus objetivos, se demoram para entender o fluxo do sistema, se demoram para receber as respostas, dentre outras coisas. A escolha deste método se deve pelo fato de ser o método com um alcance rápido e grande, tendo em vista que os colegas da faculdade sempre estão dispostos a realizar questionários.
+O método de **investigação** consiste na produção de questionários e realização de entrevistas com possíveis usuários. Este método permite investigar novas possibilidades de design, baseado nos problemas atuais dos usuários, se os mesmos não conseguem realizar seus objetivos, se demoram para entender o fluxo do sistema, se demoram para receber as respostas, dentre outras coisas. 
 
 ### **Termo de Consentimento**
 
@@ -77,19 +77,11 @@ ____________________________
 
 ### Escopo
 
-Nesta avaliação será baseada a partir do desenvolvimento de algumas tarefas. Que serão elas as seguintes:
+Esta avaliação será baseada a partir do desenvolvimento de uma tarefa foco:
 
-- Clicar no menu "Publicações";
-- Clicar em algumas das publicações;
-- Selecionar ”Notícias”;
-- Clicar em algumas das notícias;
-- No menu clique em “Doença Celíaca”;
+- No menu, clique em “Doença Celíaca”;
 - Clicar no item “O que é.”
-- Usar a Barra de Busca;
-- No menu “Mapa” selecionar a opção Mapa de Produtos sem glúten.
-- Realizar a pesquisa de um produto no mapa;
-- Entrar no item do Menu associa-se;
-- Realizar o cadastro de voluntário e celíaco.
+- Rolar a página para explorar os assuntos abordados.
 
 Perfis do Usuário
 É importante compreender o perfil do usuário para tornar efetivas as melhorias feitas pelos protótipos. De acordo com os resultados analisados no Perfil do Usuário os usuário do site da FENACELBRA são predominantemente pessoas de entre 20 e 25 anos com curso superior e tem familiaridade com o uso de tecnologia.
@@ -100,6 +92,17 @@ Perfis do Usuário
 
 A avaliação deverá possuir no mínimo 6 participantes, sendo eles, 2 de cada tipo de persona.
 
+Após o uso do protótipo de papel em sua versão mais atualizada pelo usuário, foi perguntado a ele algumas questões sobre os seguintes aspectos:
+
+| ID    | Pergunta| Respostas                              |
+| :--------- | :----- | :------------------------------------- | 
+| 1 | O usuário consegue operar o sistema?    |   Sim               | 
+|2 | Ele atingiu o objetivo proposto?   | Sim |
+|3  | Que parte da interface e da interação o deixa insatisfeito?   | Ausência de um chat de ajuda 24h, por exemplo |
+|4 | Ele entende o que significa e para que serve cada elemento da interface?   | Sim | 
+
+
+
 ### Referências
 
 BARBOSA, SILVA. Planejamento da Avaliação de IHC, Capítulo 9. 2010. 26 slides. Material apresentado para a disciplina de Interacão Humano Computador no curso de Engenharia de Software da UnB, FGA.
@@ -109,5 +112,6 @@ BARBOSA, SILVA. Planejamento da Avaliação de IHC, Capítulo 9. 2010. 26 slides
 | 14/10/2019 | 1.0    | Criação do documento                   | Victor Peixoto  |
 | 14/10/2019 | 1.1    | Adicionando planejamento da avaliação  | Victor Peixoto  |
 | 16/10/2019 | 1.2    | Ajustes na organização da documentação | Nathalia Lorena |
-| 30/10/2019 | 1.3    | Melhora na qualidade do planejamento da avaliação  | Victor Peixoto  |
-| 15/11/2019 | 1.3    | Melhora na qualidade do planejamento da avaliação  | Marcos Vinícius Rodrigues |
+| 30/10/2019 | 1.3   | Melhora na qualidade do planejamento da avaliação  | Victor Peixoto  |
+| 15/11/2019 | 1.4   | Melhora na qualidade do planejamento da avaliação  | Marcos Vinícius Rodrigues |
+| 25/11/2019 | 1.5   | Melhorias na qualidade do planejamento da avaliação  | Nathalia Lorena |
