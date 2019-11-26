@@ -30,6 +30,7 @@ nav:
           - Resultados: "prototipo_alta/resultado_avaliacao.md"
 
   - Avaliação de conformidade:
+      - Avaliação ASES: "conformidade/avaliacao_ases.md"
       - Avaliação LightHouse: "conformidade/avaliacao_lighthouse.md"
       - Avaliação W3C: "conformidade/avaliacao_w3c.md"
 

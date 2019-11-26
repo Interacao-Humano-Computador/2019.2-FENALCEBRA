@@ -1,33 +1,44 @@
-# Avaliação Padrão W3C
+# Avaliação ASES
 
-<p align="justify">A avaliação do padrão W3C consiste em uma ferramenta automata para detecção de falhas e/ou aperfeiçoamento em sítios na web para se adequarem a um padrão de acessibilidade que abranja um grande número de usuários.</p>
-Essa avaliação é feita por meio de um plugin que pode ser acessado por este [link](https://accessibilityinsights.io/docs/en/web/overview)
+### Sobre o software
 
-<p align="justify">A avaliação foi feita em duas páginas tomadas como principais de acesso para os usuário da plataforma, sendo elas a tela de cadastro e a tela de "O que é doença Celíaca".</p>
+O Avaliador e Simulador de Acessibilidade em Sítios (ASES) é uma ferramenta que permite avaliar, simular e corrigir a acessibilidade de páginas, sítios e portais, sendo de grande valia para os desenvolvedores e publicadores de conteúdo.
 
-## O que é Doença Celíaca?
+### Objetivo
 
-Esta avaliação pode ser consultada por [aqui](../assets/w3c_doencaceliaca.html)
+O ASES tem o propóstio de auxiliar a construção de sites que sejam acessíveis a qualquer pessoa, independente do seu tipo de deficiência e dispositivo de navegação.
 
-![W3Cdoencaceliaca](../assets/img/w3c_doencaceliaca.png)
+### Metas
 
-## Cadastro Celíaco
+- Ser a primeira ferramenta a proporcionar a avaliação de acessiblidade de páginas web de acordo com as recomendações do Modelo de Acessibilidade em Governo Eletrônico (eMAG);
+- Proporcionar que os cidadãos avaliem e pontuem a acessibilidade de páginas web de forma fácil e ágil;
+- Ajudar na melhoria do cenário de acessibilidade em páginas do governo;
+- Facilitar o acesso das pessoas com necessidades especiais às páginas do governo.
 
-Esta avaliação pode ser consultada por [aqui](../assets/w3c_cadastro.html)
+### Home
 
-![W3Ccadastroceliaco](../assets/img/w3c_cadastroceliaco.png)
+Esta avaliação pode ser consultada por [aqui](../assets/RelatorioHome.pdf)
+
+![Asesdoencaceliaca](../assets/img/ases_home.png)
+
+### O que é Doença Celíaca?
+
+Esta avaliação pode ser consultada por [aqui](../assets/RelatorioOquee.pdf)
+
+![Asesdoencaceliaca](../assets/img/ases_doencaceliaca.png)
+
+### Cadastro Celíaco
+
+Esta avaliação pode ser consultada por [aqui](../assets/RelatorioCadastro.pdf)
+
+![AsesCadastro](../assets/img/ases_cadastro.png)
 
 ### Referência
 
-[Acessibility Insights](https://accessibilityinsights.io/docs/en/web/overview). Acesso em 25/11/2019.
+[ASES](https://softwarepublico.gov.br/social/ases). Acesso em 25/11/2019.
 
-## Versionamento
+### Versionamento
 
 |Data|Versão|Descrição|Autor|
 |:--:|:----:|:-------:|:---:|
-|25/11/2019|1.0|Criação do documento|Gabriel Tiveron|
-|25/11/2019|1.1|Adição de referencia para documentos|Gabriel Tiveron|
-| 25/11/2019 | 1.2    | Ajustando indentação e adicionando versionamento | Débora Vilela     |
-
-
-
+|25/11/2019|1.0|Criação do documento|Marcos Vinicius|
