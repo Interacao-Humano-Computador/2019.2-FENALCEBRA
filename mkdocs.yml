@@ -5,6 +5,7 @@ nav:
   - Home: index.md
   - Planejamento:
       - Política do Repositório: "planejamento/politicas.md"
+      - Cronograma: "planejamento/cronograma.md"
       - Avaliação Heurística: "planejamento/avaliacao_heuristica.md"
       - StoryBoard: "planejamento/storyboard.md"
 

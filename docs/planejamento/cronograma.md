@@ -2,7 +2,7 @@
 
 O cronograma planejado para o projeto é o seguinte
 
-![cronograma](../assets/img/cronograma.png)
+![cronograma](../assets/img/Cronograma.png)
 
 **Observação** O cronograma, como esperado, nào pode ser seguido à risca e teve de sofrer mudanças durante o processo de execução do projeto.
 
