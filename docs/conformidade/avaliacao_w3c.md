@@ -8,9 +8,13 @@ A avaliação foi feita em duas páginas tomadas como principais de acesso para 
 
 ## O que é Doença Celíaca?
 
+Esta avaliação pode ser consultada por [aqui](../assets/w3c_doencaceliaca.html)
+
 ![W3Cdoencaceliaca](../assets/img/w3c_doencaceliaca.png)
 
 ## Cadastro Celíaco
+
+Esta avaliação pode ser consultada por [aqui](../assets/w3c_cadastro.html)
 
 ![W3Ccadastroceliaco](../assets/img/w3c_cadastroceliaco.png)
 
@@ -18,6 +22,7 @@ A avaliação foi feita em duas páginas tomadas como principais de acesso para 
 |Data|Versão|Descrição|Autor|
 |:--:|:----:|:-------:|:---:|
 |25/11/2019|1.0|Criação do documento|Gabriel Tiveron|
+|25/11/2019|1.1|Adição de referencia para documentos|Gabriel Tiveron|
 
 
 ### Referência
