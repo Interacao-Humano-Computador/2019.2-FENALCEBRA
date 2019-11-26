@@ -1,8 +1,8 @@
 # Princípios e Diretrizes Gerais do Design
 
-<p align="justify">Trata-se da necessidade de projetarmos um sistema utilizando um modelo conceitual que o usuário possa aprender rapidamente e sem dificuldades. Este modelo conceitual deve auxiliar a interpretar o relacionamento entre as ações e relações apresentadas pelo sistema e o conhecimento no mundo.</p>
+<p align="justify">Trata-se da necessidade de projetarmos um sistema utilizando um modelo conceitual que o usuário possa aprender rapidamente e sem dificuldades. Este modelo conceitual deve auxiliar a interpretar o relacionamento entre as ações e relações apresentadas pelo sistema e o conhecimento no mundo. O site FENACELBRA não contempla grande parte desses princípios e diretrizes como veremos abaixo.</p>
 
-<p align="justify">Abaixo estão alguns princípios e diretrizes comumente utilizados:</p>
+<p align="justify">Abaixo estão alguns princípios e diretrizes comumente utilizados em um modelo conceitual:</p>
 
 ## 1. Correspondência com a expectativa dos usuários
 
@@ -14,7 +14,9 @@
 
 
 - <p align="justify">Estruturar o diálogo de forma a seguir uma linha de raciocínio e fornecer um fechamento;
-Seguir as convenções do mundo real, fazendo com que a informação apareça em uma ordem natural e lógica.</p>
+- Seguir as convenções do mundo real, fazendo com que a informação apareça em uma ordem natural e lógica.</p>
+
+**Observações:** O FENACELBRA possui um menu que se sobrepõe às informações do site, impossibilitando o usuário de completar diversas tarefas, dessa forma, não corresponde com a expectativa dos usuários na maioria dos casos.
 
 ## 2. Simplicidade nas estruturas das tarefas
 
@@ -29,10 +31,12 @@ Seguir as convenções do mundo real, fazendo com que a informação apareça em
     3. Automatizar a tarefa, mantendo-a igual;
     4. Modificar a natureza da tarefa; 
 
+**Observações:** O FENACELBRA possui um menu que se sobrepõe às informações do site, impossibilita que seja fácil realizar tarefas no site e também não oferece fluxos alternativos para a realização da mesma tarefa, dessa forma, observa-se que o site não possui estruturas simples de usar.
+
 ## 3. Equilíbrio entre controle e liberdade do usuário
 
 - <p align="justify">Mantenha o usuário no controle;
-<p align="justify">Explore o poder das restrições, tanto naturais como artificiais, e projetar restrições para que o usuário sinta como se houvesse apenas uma coisa possível a fazer a coisa “certa”;</p>
+- <p align="justify">Explore o poder das restrições, tanto naturais como artificiais, e projetar restrições para que o usuário sinta como se houvesse apenas uma coisa possível a fazer a coisa “certa”;</p>
 - <p align="justify">Usuários não devem ficar presos num caminho de interação único para realizar uma atividade;</p>
 - <p align="justify">Forneça aos usuários uma “saída” clara e rápida, mas deve ser mais fácil se manter “no caminho” do que sair dele inadvertidamente.</p>
 
@@ -49,6 +53,8 @@ Seguir as convenções do mundo real, fazendo com que a informação apareça em
 - <p align="justify">O sistema não deve forçar o usuário a escolher o tempo todo uma quantidade enorme de opções para prosseguir rumo ao objetivo;</p>
 - <p align="justify">Escolha bons valores padrão (defaults) para quando não for necessário incomodar o usuário.</p>
 
+**Observações:** O site apresenta graves problemas para a realização de tarefas simples como saber mais sobre a Doença Celíaca, prejudicando a experiência do usuário, não possibilitando caminhos alternativos para realizar uma tarefa, o usuário não tem liberdade e nem controle sobre o site.
+
 ## 4. Consistência e padronização
 
 - <p align="justify">Padronize as ações, os resultados das ações, o layout dos diálogos e as visualizações de informação:</p>
@@ -59,7 +65,7 @@ Seguir as convenções do mundo real, fazendo com que a informação apareça em
     1. <p align="justify">Por exemplo: utilizar rótulos Salvar e Gravar indiscriminadamente em um mesmo sistema pode confundir o usuário;</p>
 - <p align="justify">A mesma terminologia deve ser utilizada em perguntas, menus e sistemas de ajuda.</p>
 
-
+**Observações:** O site não segue um layout de informações padronizado, as informações ficam "quebradas".
 ## 5. Promoção da eficiência do usuário
 
 - <p align="justify">Mantenha o usuário ocupado, ou seja, os processamentos demorados não devem impedir o usuário de realizar outras atividades no sistema, deixando o processos rodando em background;</p>
@@ -67,6 +73,8 @@ Seguir as convenções do mundo real, fazendo com que a informação apareça em
 - <p align="justify">Forneça atalhos e aceleradores, como teclas de atalho e botões na barra de ferramenta.</p>
 
 ![Promovendo a eficiência do usuário.](../assets/img/eficienciaUsuario.png)
+
+**Observações:** O usuário perde bastante tempo no site apenas tentando clicar no menu e em itens, dessa forma, o uso do site não promove eficiência ao usuário.
 
 ## 6. Antecipação das necessidades do usuário
 
@@ -77,6 +85,7 @@ Seguir as convenções do mundo real, fazendo com que a informação apareça em
 
 <p align="justify">Considere cada alternativa. Ela é eficiente? É neutra? Ou induz a uma determinada opção?</p>
 
+**Observações:** O site contempla informações adicionais bastante úteis, sem que o usário precise ficar procurando nas páginas, no entanto, devido o layout do site ficar com o menu sobreposto impossibilita o acesso a essas informações.
 ## 7. Visibilidade e reconhecimento
 
 -  <p align="justify">designer deve tonar os objetos visíveis: abreviar os golfos de execução e avaliação;</p>
@@ -88,6 +97,7 @@ Seguir as convenções do mundo real, fazendo com que a informação apareça em
 
 ![Visibilidade.](../assets/img/visibilidade.png)
 
+ **Observações:** Grande parte dos objetos no site não são facilmente visíveis, o usuário não tem um feedback de todas as suas tarefas realizadas no site.
 
 ## 8. Conteúdo relevante e expressão adequada
 
@@ -95,6 +105,8 @@ Seguir as convenções do mundo real, fazendo com que a informação apareça em
 - <p align="justify">As mensagens de instrução e ajuda devem ser concisas e informativas sobre problemas que ocorrerem;</p>
 - <p align="justify">Os rótulos de menus e botões devem ser claros e livres de ambiguidade;</p>
 - Certifique-se de que o texto também seja legível.
+
+ **Observações:** Não há instruções informativas caso ocorram problemas na experiência do usuário, os botões não estão claros em todas as tarefas que é possível realizar.
 
 ## 9. Projeto para erros
 
@@ -109,6 +121,8 @@ Seguir as convenções do mundo real, fazendo com que a informação apareça em
 
 ![Projeo para erros.](../assets/img/projetoErros2.png)
 
+**Observações:** O site não conta com projeto para erros e também não ajuda os usuários a reconhecerem, diagnosticarem e recuperarem  erros, informando-lhe sobre o que ocorreu, as consequências disso e como reverter os resultados indesejados.
+
 ## Referências
 
 BARBOSA, SILVA. Planejamento da Avaliação de IHC, Capítulo 8. 2010. 26 slides. Material apresentado para a disciplina de Interacão Humano Computador no curso de Engenharia de Software da UnB, FGA.
@@ -121,4 +135,5 @@ BARBOSA, SILVA. Planejamento da Avaliação de IHC, Capítulo 8. 2010. 26 slides
 | 14/10/2019 | 1.1    | Adicionando Princípios e Diretrizes    | Nathalia Lorena |
 | 16/10/2019 | 1.2    | Ajustes na organização da documentação | Nathalia Lorena |
 | 16/10/2019 | 1.3    | Adicionando mais tópicos no documento | Nathalia Lorena |
+| 25/11/2019 | 1.4    | Ajustando indentação e adicionando versionamento e referências | Débora Vilela     |
 | 25/11/2019 | 1.4    | Ajustando indentação e adicionando versionamento e referências | Débora Vilela     |
