@@ -24,7 +24,7 @@ Esta avaliação pode ser consultada por [aqui](../assets/RelatorioHome.pdf)
 #### Resultados
 
 |Erros|Quantidade|
-|:--:|:----:|:-------:|:---:|
+|:--:|:----:|
 |Não respeita os padrões WEB |10|
 |O código HTML está de forma desorganizada e sem com falta de semântica |3|
 |O site não utiliza os níveis de cabeçalho corretamente|1|
@@ -39,10 +39,10 @@ Esta avaliação pode ser consultada por [aqui](../assets/RelatorioOquee.pdf)
 #### Resultados
 
 |Erros|Quantidade|
-|:--:|:----:|:-------:|:---:|
-|Não respeita os padrões WEB |4|
-|O código HTML está de forma desorganizada e sem com falta de semântica |3|
-|O site não utiliza os níveis de cabeçalho corretamente|2|
+|:--:|:----:|
+|Não respeita os padrões WEB |4
+|O código HTML está de forma desorganizada e sem com falta de semântica |3
+|O site não utiliza os níveis de cabeçalho corretamente|2
 |Não fornece âncoras para acesso direto à algum bloco de conteúdo |2|
 
 
@@ -55,10 +55,10 @@ Esta avaliação pode ser consultada por [aqui](../assets/RelatorioCadastro.pdf)
 #### Resultados
 
 |Erros|Quantidade|
-|:--:|:----:|:-------:|:---:|
-|Não respeita os padrões WEB |4|
-|O código HTML está de forma desorganizada e com falta de semântica |7|
-|O site não utiliza os níveis de cabeçalho corretamente|1|
+|:--:|:----:|
+|Não respeita os padrões WEB |4
+|O código HTML está de forma desorganizada e com falta de semântica |7
+|O site não utiliza os níveis de cabeçalho corretamente|1
 |Não fornece âncoras para acesso direto à algum bloco de conteúdo |2|
 
 ### Referência
