@@ -6,6 +6,10 @@ Neste artefato serão discutidos os resultados apresentados pelos usuários apó
 
 ### Avaliação com o Protótipo de Alta Fidelidade
 
+#### Validação do protótipo com um usuário
+<iframe src="https://www.youtube.com/watch?v=fY_IzfWaflw&feature=youtu.be" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
 #### Tarefa a ser realizada
 
 * Buscar informações pela aba "Doença celíaca" e no submenu "O que é?", em seguida descer a toda a página em busca de informações
