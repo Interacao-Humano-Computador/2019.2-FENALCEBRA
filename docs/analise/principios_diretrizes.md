@@ -12,6 +12,8 @@
 
 ![Correspondência de Usuário.](../assets/img/correspondenciaUsuario.png "Sequências alternativas de cenas em sites de comércio eletrônico, solicitando a identificação do usuário em diferentes momentos da interação")
 
+Fonte: BARBOSA, SILVA. Planejamento da Avaliação de IHC, Capítulo 8, p.266.
+
 
 - <p align="justify">Estruturar o diálogo de forma a seguir uma linha de raciocínio e fornecer um fechamento;
 - Seguir as convenções do mundo real, fazendo com que a informação apareça em uma ordem natural e lógica.</p>
@@ -42,13 +44,19 @@
 
 ![Equilíbrio entre controle e liberdade do usuário.](../assets/img/equilibrioUsuario.png)
 
+Fonte: BARBOSA, SILVA. Planejamento da Avaliação de IHC, Capítulo 8, p.268.
+
 - <p align="justify">Permita que o usuário cancele, desfaça e refaça suas ações. Isso facilita o aprendizado por exploração</p>
 
 ![Equilíbrio entre controle e liberdade do usuário.](../assets/img/equilibrioUsuario2.png)
 
+Fonte: BARBOSA, SILVA. Planejamento da Avaliação de IHC, Capítulo 8, p.268.
+
 - <p align="justify">Quando uma operação considerada perigosa não puder ser desfeita,devemos projetar medidas de segurança para que ela não seja acionada incidentalmente;</p>
 
 ![Equilíbrio entre controle e liberdade do usuário.](../assets/img/equilibrioUsuario3.png)
+
+Fonte: BARBOSA, SILVA. Planejamento da Avaliação de IHC, Capítulo 8, p.269.
 
 - <p align="justify">O sistema não deve forçar o usuário a escolher o tempo todo uma quantidade enorme de opções para prosseguir rumo ao objetivo;</p>
 - <p align="justify">Escolha bons valores padrão (defaults) para quando não for necessário incomodar o usuário.</p>
@@ -74,6 +82,8 @@
 
 ![Promovendo a eficiência do usuário.](../assets/img/eficienciaUsuario.png)
 
+Fonte: BARBOSA, SILVA. Planejamento da Avaliação de IHC, Capítulo 8, p.272.
+
 **Observações:** O usuário perde bastante tempo no site apenas tentando clicar no menu e em itens, dessa forma, o uso do site não promove eficiência ao usuário.
 
 ## 6. Antecipação das necessidades do usuário
@@ -82,6 +92,9 @@
 - <p align="justify">Tome iniciativa e forneça informações adicionais úteis, em vez de apenas responder precisamente a pergunta que o usuário tiver feito:</p>
 
 ![Antecipação.](../assets/img/antecipacaoUsuario.png)
+
+Fonte: BARBOSA, SILVA. Planejamento da Avaliação de IHC, Capítulo 8, p.273.
+
 
 <p align="justify">Considere cada alternativa. Ela é eficiente? É neutra? Ou induz a uma determinada opção?</p>
 
@@ -96,6 +109,8 @@
 - <p align="justify">Para ações frequentes e com resultado esperado, a resposta pode ser sutil, mas para ações infrequentes e com grandes consequências, a resposta deve ser mais substancial;</p>
 
 ![Visibilidade.](../assets/img/visibilidade.png)
+
+Fonte: BARBOSA, SILVA. Planejamento da Avaliação de IHC, Capítulo 8, p.275.
 
  **Observações:** Grande parte dos objetos no site não são facilmente visíveis, o usuário não tem um feedback de todas as suas tarefas realizadas no site.
 
@@ -115,14 +130,18 @@
 
 ![Projeo para erros.](../assets/img/projetoErros1.png)
 
+Fonte: BARBOSA, SILVA. Planejamento da Avaliação de IHC, Capítulo 8, p.278.
+
 - <p align="justify">Não coloque controles de funções utilizadas com frequência adjacentes a controles perigosos ou que raramente são utilizados;</p>
 
     1. <p align="justify">Exemplo: um botão de inspeção de Propriedades está posicionado bem próximo ao botão para Desabilitar a conexão de rede que, inclusive, efetua a operação sem pedir confirmação do usuário.</p>
 
 ![Projeo para erros.](../assets/img/projetoErros2.png)
 
-**Observações:** O site não conta com projeto para erros e também não ajuda os usuários a reconhecerem, diagnosticarem e recuperarem  erros, informando-lhe sobre o que ocorreu, as consequências disso e como reverter os resultados indesejados.
+Fonte: BARBOSA, SILVA. Planejamento da Avaliação de IHC, Capítulo 8, p.278.
 
+
+**Observações:** O site não conta com projeto para erros e também não ajuda os usuários a reconhecerem, diagnosticarem e recuperarem  erros, informando-lhe sobre o que ocorreu, as consequências disso e como reverter os resultados indesejados.
 ## Referências
 
 BARBOSA, SILVA. Planejamento da Avaliação de IHC, Capítulo 8. 2010. 26 slides. Material apresentado para a disciplina de Interacão Humano Computador no curso de Engenharia de Software da UnB, FGA.
@@ -136,4 +155,4 @@ BARBOSA, SILVA. Planejamento da Avaliação de IHC, Capítulo 8. 2010. 26 slides
 | 16/10/2019 | 1.2    | Ajustes na organização da documentação | Nathalia Lorena |
 | 16/10/2019 | 1.3    | Adicionando mais tópicos no documento | Nathalia Lorena |
 | 25/11/2019 | 1.4    | Ajustando indentação e adicionando versionamento e referências | Débora Vilela     |
-| 25/11/2019 | 1.4    | Ajustando indentação e adicionando versionamento e referências | Débora Vilela     |
+| 25/11/2019 | 1.5    | Adição de fonte para as imagens | Gabriel Tiveron |
