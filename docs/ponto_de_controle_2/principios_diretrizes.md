@@ -137,8 +137,9 @@ que, inclusive, efetua a operação sem pedir confirmação do usuário.
 
 ![Projeo para erros.](../assets/img/projetoErros2.png)
 
+## Referências
 
-
+BARBOSA, SILVA. Planejamento da Avaliação de IHC, Capítulo 8. 2010. 26 slides. Material apresentado para a disciplina de Interacão Humano Computador no curso de Engenharia de Software da UnB, FGA.
 
 
 | Data       | Versão | Descrição                              | Autor           |
